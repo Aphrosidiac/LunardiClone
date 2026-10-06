@@ -8,3 +8,5 @@ next-env.d.ts
 tsconfig.tsbuildinfo
 .media-cache
 docs/qa/compare
+docs/qa/*side-by-side.jpg
+docs/qa/dither-ab.png
