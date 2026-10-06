@@ -1,0 +1,230 @@
+@import 'tailwindcss';
+
+/*
+ * Design tokens. Values are measured from the reference stylesheet (docs/reference-spec.md §5):
+ * the whole system runs on a 1px spacing unit, two typefaces, one fluid body size and a
+ * two-colour theme that the theme switcher swaps at runtime.
+ */
+@theme {
+  --*: initial;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  --font-mono: var(--font-ubuntu-mono), ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+  --spacing: 0.0625rem;
+  --breakpoint-sm: 40rem;
+  --breakpoint-md: 48rem;
+  --breakpoint-lg: 64rem;
+  --breakpoint-xl: 80rem;
+  --breakpoint-2xl: 96rem;
+  --font-weight-semibold: 600;
+  --tracking-normal: 0em;
+  --ease-in: cubic-bezier(0.4, 0, 1, 1);
+  --ease-out: cubic-bezier(0, 0, 0.2, 1);
+  --ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
+  --animate-ping: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+  --animate-pulse: pulse 1.5s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  --animate-blink: blink 1s steps(1, end) infinite;
+  --blur-xs: 4px;
+  --aspect-video: 16 / 9;
+  --default-transition-duration: 0.15s;
+  --default-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  --default-font-family: var(--font-sans);
+  --default-mono-font-family: var(--font-mono);
+
+  --layout-min-w: 375;
+  --layout-max-w: 1600;
+  --fluid-min-w: var(--layout-min-w, 375);
+  --fluid-max-w: var(--layout-max-w, 1600);
+  --fluid-slope: calc((100vw - calc(var(--spacing) * var(--fluid-min-w))) / (var(--fluid-max-w) - var(--fluid-min-w)));
+
+  --text-body-10: calc(var(--spacing) * 10);
+  --text-body-10--font-weight: 400;
+  --text-body-10--line-height: 1.3;
+  --text-body-10--letter-spacing: normal;
+  --text-body-14: clamp(calc(var(--spacing) * 12), calc(var(--spacing) * 12) + (14 - 12) * var(--fluid-slope), calc(var(--spacing) * 14));
+  --text-body-14--font-weight: 400;
+  --text-body-14--line-height: 1.3;
+  --text-body-14--letter-spacing: normal;
+
+  --color-theme-bg: var(--theme-bg, #232323);
+  --color-theme-fg: var(--theme-fg, #fff);
+  --color-black: #000;
+  --color-error: #ff5f57;
+
+  --radius-2: calc(var(--spacing) * 2);
+  --radius-4: calc(var(--spacing) * 4);
+  --radius-full: 9999px;
+
+  --z-index-behind: -1;
+  --z-index-1: 1;
+  --z-index-2: 2;
+
+  @keyframes ping {
+    75%,
+    100% {
+      transform: scale(2);
+      opacity: 0;
+    }
+  }
+  @keyframes pulse {
+    50% {
+      opacity: 0.5;
+    }
+  }
+  @keyframes blink {
+    50% {
+      opacity: 0;
+    }
+  }
+}
+
+/* A real keyboard and mouse: hints only show where a shortcut can be pressed. */
+@custom-variant keyboard (@media (any-hover: hover) and (any-pointer: fine));
+
+/* Invisible hit-area extenders for the tiny 13px window controls. */
+@utility hit-x-* {
+  position: relative;
+  &::before {
+    content: '';
+    position: absolute;
+    inset-inline: calc(var(--spacing) * --value(integer) * -1);
+  }
+}
+@utility hit-y-* {
+  position: relative;
+  &::before {
+    content: '';
+    position: absolute;
+    inset-block: calc(var(--spacing) * --value(integer) * -1);
+  }
+}
+
+@layer base {
+  :where(a[href], button, select, summary, [tabindex]:not([tabindex='-1']), [contenteditable='true']:not([contenteditable='false'])):focus-visible,
+  html[data-keyboard-focus] :where(input:not([type='hidden']), textarea):focus {
+    @apply ring-2 ring-theme-fg ring-inset outline-none;
+  }
+  :is(h1, h2, h3, h4, h5, h6) {
+    text-wrap: balance;
+  }
+  p {
+    text-wrap: pretty;
+  }
+}
+
+html,
+body {
+  overscroll-behavior: none;
+  background-color: var(--color-theme-bg);
+  height: 100%;
+  color: var(--color-theme-fg);
+  flex-direction: column;
+  display: flex;
+}
+body {
+  overscroll-behavior: none;
+  height: 100svh;
+  font-family: var(--font-sans);
+  font-size: var(--text-body-14);
+  line-height: var(--tw-leading, var(--text-body-14--line-height));
+  letter-spacing: var(--tw-tracking, var(--text-body-14--letter-spacing));
+  font-weight: var(--tw-font-weight, var(--text-body-14--font-weight));
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  flex-direction: column;
+  display: flex;
+  overflow: hidden;
+}
+main {
+  min-height: 0;
+  padding-inline: calc(var(--spacing) * 8);
+  padding-bottom: calc(var(--spacing) * 8);
+  flex-direction: column;
+  flex: 1;
+  display: flex;
+}
+img {
+  user-select: none;
+}
+input[type='search']::-webkit-search-cancel-button,
+input[type='search']::-webkit-search-decoration,
+input[type='number']::-webkit-outer-spin-button,
+input[type='number']::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+::selection {
+  background-color: var(--color-theme-fg);
+  color: var(--color-theme-bg);
+}
+
+/* Lenis (inner scroll roots only; the document itself never scrolls). */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis:not(.lenis-autoToggle).lenis-stopped {
+  overflow: clip;
+}
+.lenis [data-lenis-prevent],
+.lenis [data-lenis-prevent-wheel],
+.lenis [data-lenis-prevent-touch],
+.lenis [data-lenis-prevent-vertical],
+.lenis [data-lenis-prevent-horizontal] {
+  overscroll-behavior: contain;
+}
+.lenis.lenis-smooth iframe {
+  pointer-events: none;
+}
+.lenis.lenis-autoToggle {
+  transition-property: overflow;
+  transition-duration: 1ms;
+  transition-behavior: allow-discrete;
+}
+
+/* Themes. --theme-dither is the dark tone of the dithered background. */
+:root {
+  --sh-class: #61afef;
+  --sh-identifier: #abb2bf;
+  --sh-sign: #e06c75;
+  --sh-property: #98c379;
+  --sh-entity: #e5c07b;
+  --sh-jsxliterals: #c678dd;
+  --sh-string: #98c379;
+  --sh-keyword: #e06c75;
+  --sh-comment: #56b6c2;
+  --sh-number: #61afef;
+  --sh-break: transparent;
+  --sh-space: transparent;
+  --theme-bg: #232323;
+  --theme-fg: #fff;
+  --theme-dither: #232323;
+}
+:root[data-theme='matrix'] {
+  --theme-bg: #0d1117;
+  --theme-fg: #00ff41;
+  --theme-dither: #0f3316;
+}
+:root[data-theme='amber'] {
+  --theme-bg: #150e00;
+  --theme-fg: #ffb000;
+  --theme-dither: #332400;
+}
+:root[data-theme='solarized-dark'] {
+  --theme-bg: #002b36;
+  --theme-fg: #93a1a1;
+  --theme-dither: #073642;
+}
+:root[data-theme='monokai'] {
+  --theme-bg: #272822;
+  --theme-fg: #f8f8f2;
+  --theme-dither: #3e3d32;
+}
+:root[data-theme='nord'] {
+  --theme-bg: #2e3440;
+  --theme-fg: #d8dee9;
+  --theme-dither: #3b4252;
+}
+:root[data-theme='dracula'] {
+  --theme-bg: #282a36;
+  --theme-fg: #f8f8f2;
+  --theme-dither: #44475a;
+}

@@ -1,0 +1,12 @@
+import { chromium } from 'playwright';
+const url = process.argv[2] || 'http://localhost:3180/';
+const b = await chromium.launch({ headless: true, channel: 'chromium', args: ['--use-angle=d3d11', '--enable-gpu'] });
+const p = await b.newPage({ viewport: { width: 1440, height: 900 } });
+p.on('console', (m) => { console.log(m.type(), m.text().slice(0, 600)); });
+p.on('pageerror', (e) => console.log('PAGEERROR', e.message.slice(0, 800)));
+p.on('framenavigated', (f) => { if (f === p.mainFrame()) console.log('NAV', f.url()); });
+p.on('requestfailed', (r) => console.log('REQFAIL', r.url().slice(0, 150), r.failure()?.errorText));
+await p.goto(url, { waitUntil: 'load' });
+await p.waitForTimeout(+(process.argv[3] || 8000));
+console.log('clock:', await p.evaluate(() => document.querySelector('header')?.innerText.slice(-30)).catch(e=>e.message));
+await b.close();

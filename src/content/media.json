@@ -1,0 +1,2074 @@
+{
+ "works/ff-search/hero": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAgCdASoYAAwAPtFUo0uoJKMhsAgBABoJaQAAeyAA/vBAa9MTf/df7DdbE4b20PnkOAAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-search/hero/240.mp4",
+    "poster": "/media/works/ff-search/hero/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-search/hero/480.mp4",
+    "poster": "/media/works/ff-search/hero/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-search/hero/720.mp4",
+    "poster": "/media/works/ff-search/hero/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-search/hero/720.mp4",
+    "poster": "/media/works/ff-search/hero/720-poster.webp"
+   }
+  ]
+ },
+ "works/ff-search/built": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAAAwBACdASoYAAwAPtFYpEuoJSOhsAgBABoJQAF6ZsOStK1O0bq/i7lrCrAA/vyk2TH4CJVtw43t16JO8mw5i99z49HfzlF8cKULpU7beL9tq9+1blCem5uodSnhlNIuzbZMUpJxYEzPc9cjhP9geUcii4hnXIItHlxHu39VDhjGjWzK7c7kf9Lk0RUOKW+QxrPfcK3ThTAT+4kgAAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-search/built/240.mp4",
+    "poster": "/media/works/ff-search/built/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-search/built/480.mp4",
+    "poster": "/media/works/ff-search/built/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-search/built/720.mp4",
+    "poster": "/media/works/ff-search/built/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-search/built/720.mp4",
+    "poster": "/media/works/ff-search/built/720-poster.webp"
+   }
+  ]
+ },
+ "works/ff-search/start": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAADwAwCdASoYAAwAPtFUo0uoJKMhsAgBABoJZQAAXKH8Shn+zd1yqAjQAP63ajs6ZqH+TjeKE7H6Oc3ihwkmgMzRcChn4syqWV+EdkR1OB6aD8nkWgoin5m5VJN5PhMk5RLpxuVFVdhFRBG7659CxEHN1StX65UtkxlJu53cWTvJzvyv2lhy9QvZa6WtZgg8gAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-search/start/240.mp4",
+    "poster": "/media/works/ff-search/start/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-search/start/480.mp4",
+    "poster": "/media/works/ff-search/start/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-search/start/720.mp4",
+    "poster": "/media/works/ff-search/start/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-search/start/720.mp4",
+    "poster": "/media/works/ff-search/start/720-poster.webp"
+   }
+  ]
+ },
+ "works/ff-shoots/gallery": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAADQAwCdASoYAAwAPtFUpEuoJKOhsAgBABoJYgABHxtG+S6jYrL+j4AA/v2f17LuOrsMNLQ2wfRb1Pt8+zLspf0CDPuWIwohyIIOBq1HAl3ksN9pfJy47X9Y1voUDKt7GrvqXMBnwCfmPba/vlST+D9zg6UPePIcmkxPEg4R2Ef2en/OQ3vE+M5nsLn/U5I3xYTZcBRAAAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-shoots/gallery/240.mp4",
+    "poster": "/media/works/ff-shoots/gallery/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-shoots/gallery/480.mp4",
+    "poster": "/media/works/ff-shoots/gallery/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-shoots/gallery/720.mp4",
+    "poster": "/media/works/ff-shoots/gallery/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-shoots/gallery/720.mp4",
+    "poster": "/media/works/ff-shoots/gallery/720-poster.webp"
+   }
+  ]
+ },
+ "works/ff-shoots/lens": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAwCdASoYAAwAPtFUo0uoJKMhsAgBABoJZwAAWY6hfvVTtcFssYAAAP7sJpk1FxaI6hnKqToe3uTOnV3Eru3qCGRM0WskR3O2EAmQnP1UZM7RgEDcJH54z87L4vEAF5BaBToYUTLiMjwRxaiuh2/iG+Ogm2oFAAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-shoots/lens/240.mp4",
+    "poster": "/media/works/ff-shoots/lens/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-shoots/lens/480.mp4",
+    "poster": "/media/works/ff-shoots/lens/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-shoots/lens/720.mp4",
+    "poster": "/media/works/ff-shoots/lens/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-shoots/lens/720.mp4",
+    "poster": "/media/works/ff-shoots/lens/720-poster.webp"
+   }
+  ]
+ },
+ "works/ff-shoots/index": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwBACdASoYAAwAPtFUo0uoJKMhsAgBABoJZAAAXlUsSfBjsohYeQD9KgAA/u7wIMpB7ryX22UYEQTKoEGcsDEYNdxgP3ULfgeGzjYbcYAByLwJwWZ/hkvwzyT/nyp4nCJJPVlu8WVH3YDcytD5ONwQoEnYYDbRYV9GTQkHrcgYrsj4oAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-shoots/index/240.mp4",
+    "poster": "/media/works/ff-shoots/index/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-shoots/index/480.mp4",
+    "poster": "/media/works/ff-shoots/index/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-shoots/index/720.mp4",
+    "poster": "/media/works/ff-shoots/index/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-shoots/index/720.mp4",
+    "poster": "/media/works/ff-shoots/index/720-poster.webp"
+   }
+  ]
+ },
+ "works/ff-stanzza/intro": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAABwAwCdASoYAAwAPtFUo0uoJKMhsAgBABoJZwAAW4P0RSMAAAAA/vN0rtkwCV7ZoDQ9o+dQq4VWGm5hjodDFaXlawoLQ0rQyP4G8GgUAAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-stanzza/intro/240.mp4",
+    "poster": "/media/works/ff-stanzza/intro/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-stanzza/intro/480.mp4",
+    "poster": "/media/works/ff-stanzza/intro/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-stanzza/intro/720.mp4",
+    "poster": "/media/works/ff-stanzza/intro/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-stanzza/intro/720.mp4",
+    "poster": "/media/works/ff-stanzza/intro/720-poster.webp"
+   }
+  ]
+ },
+ "works/ff-stanzza/project": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwAwCdASoYAAwAPtFUo0uoJKMhsAgBABoJZwC/OCPcLSHvW+dVAAD+6FGTzPDjo/nLGaGqZm+lCeSdV2qMQ5RlfZC+pY0zLVClbhUflz7FHb49qr2M62zurYYaVNtwH4E1GV0AAAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-stanzza/project/240.mp4",
+    "poster": "/media/works/ff-stanzza/project/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-stanzza/project/480.mp4",
+    "poster": "/media/works/ff-stanzza/project/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-stanzza/project/720.mp4",
+    "poster": "/media/works/ff-stanzza/project/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-stanzza/project/720.mp4",
+    "poster": "/media/works/ff-stanzza/project/720-poster.webp"
+   }
+  ]
+ },
+ "works/ff-stanzza/services": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACQAwCdASoYAAwAPtFUo0uoJKMhsAgBABoJZwCnFCLtRLriXmUAAP5nxvATDgetNHSlUnacfa3P5YMr3BUwE6NxFnM0z3XWr0EAAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-stanzza/services/240.mp4",
+    "poster": "/media/works/ff-stanzza/services/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-stanzza/services/480.mp4",
+    "poster": "/media/works/ff-stanzza/services/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-stanzza/services/720.mp4",
+    "poster": "/media/works/ff-stanzza/services/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-stanzza/services/720.mp4",
+    "poster": "/media/works/ff-stanzza/services/720-poster.webp"
+   }
+  ]
+ },
+ "works/ff-stanzza/about": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAgCdASoYAAwAPtFWo0uoJKMhsAgBABoJZwC3uC5JAAD+8OLf70xIy8DpfRNAAAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-stanzza/about/240.mp4",
+    "poster": "/media/works/ff-stanzza/about/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-stanzza/about/480.mp4",
+    "poster": "/media/works/ff-stanzza/about/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-stanzza/about/720.mp4",
+    "poster": "/media/works/ff-stanzza/about/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-stanzza/about/720.mp4",
+    "poster": "/media/works/ff-stanzza/about/720-poster.webp"
+   }
+  ]
+ },
+ "works/ff-frames/hero": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoYAAwAPtFYpEwoJSOiMAgBABoJaQDA3BVYgqPZM56ciAAA/RwkREfkXzQC1mYGxUE1FAoDCMMwz+dWci5ZbUc1fzwz18S//h4p0EqduIAAAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-frames/hero/240.mp4",
+    "poster": "/media/works/ff-frames/hero/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-frames/hero/480.mp4",
+    "poster": "/media/works/ff-frames/hero/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-frames/hero/720.mp4",
+    "poster": "/media/works/ff-frames/hero/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-frames/hero/720.mp4",
+    "poster": "/media/works/ff-frames/hero/720-poster.webp"
+   }
+  ]
+ },
+ "works/ff-frames/weddings": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAwCdASoYAAwAPtFUpEuoJKOhsAgBABoJQBOgAtov4roQOMMA8H1QAP68c1lLRtph0e494QFSwOI+fou8mAa0pFOPhsw/DixWni+3n1j0J6Ama0tvFQEF4P9eugqQxv/aKIChgIIr6AAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-frames/weddings/240.mp4",
+    "poster": "/media/works/ff-frames/weddings/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-frames/weddings/480.mp4",
+    "poster": "/media/works/ff-frames/weddings/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-frames/weddings/720.mp4",
+    "poster": "/media/works/ff-frames/weddings/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-frames/weddings/720.mp4",
+    "poster": "/media/works/ff-frames/weddings/720-poster.webp"
+   }
+  ]
+ },
+ "works/ff-frames/gallery": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADQAwCdASoYAAwAPtFUpEuoJKOhsAgBABoJZwDE2YwmyTRxQQ8pkngAy0z+CQimfC7Nl7z4RzgSxnnjgbpY/Ju4n4WozLuCYa3BfXpkMNpsLilK9LIhOOjua6caCSTpxWAje3wS0MpwInD/ppMhgf/LSHZNsmNB+mQOk9JBXoURbD5qc3DpAb370klfpIAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-frames/gallery/240.mp4",
+    "poster": "/media/works/ff-frames/gallery/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-frames/gallery/480.mp4",
+    "poster": "/media/works/ff-frames/gallery/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-frames/gallery/720.mp4",
+    "poster": "/media/works/ff-frames/gallery/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-frames/gallery/720.mp4",
+    "poster": "/media/works/ff-frames/gallery/720-poster.webp"
+   }
+  ]
+ },
+ "works/ff-frames/pricing": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADQAwCdASoYAAwAPtFUo0uoJKMhsAgBABoJZwCdACG9B0eKhcIT6AAA/pwj8Rt/1fqtnMhA/vrZX0N4DRH0otbkBLVuwYPbQh+NrFpbZisvS7yibp7d7YNFMfoCzP+zQXNzFjP3X8WRhwNf+i6wf+t5KU2Pz1URP4nbVYbqcC0f3N3aACBgAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-frames/pricing/240.mp4",
+    "poster": "/media/works/ff-frames/pricing/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-frames/pricing/480.mp4",
+    "poster": "/media/works/ff-frames/pricing/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-frames/pricing/720.mp4",
+    "poster": "/media/works/ff-frames/pricing/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-frames/pricing/720.mp4",
+    "poster": "/media/works/ff-frames/pricing/720-poster.webp"
+   }
+  ]
+ },
+ "works/sunlight-supplies/hero": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAwCdASoYAAwAPtFYpkwoJSOiMAgBABoJZwAAXfCtEwgl9qgpzAAA/vYKeTT2J4t9uOB0NbTKRE+kyEc4uRqRwPvPsV+ylvgDQX6LMZfoAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/sunlight-supplies/hero/240.mp4",
+    "poster": "/media/works/sunlight-supplies/hero/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/sunlight-supplies/hero/480.mp4",
+    "poster": "/media/works/sunlight-supplies/hero/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/sunlight-supplies/hero/720.mp4",
+    "poster": "/media/works/sunlight-supplies/hero/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/sunlight-supplies/hero/720.mp4",
+    "poster": "/media/works/sunlight-supplies/hero/720-poster.webp"
+   }
+  ]
+ },
+ "works/sunlight-supplies/stages": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACQAwCdASoYAAwAPtFYpEuoJSOhsAgBABoJaQAAWqACM1FHHBQAAP72EKpG4xJrQDG+scUAdAejudcqUJY2qX7PGyBocAAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/sunlight-supplies/stages/240.mp4",
+    "poster": "/media/works/sunlight-supplies/stages/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/sunlight-supplies/stages/480.mp4",
+    "poster": "/media/works/sunlight-supplies/stages/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/sunlight-supplies/stages/720.mp4",
+    "poster": "/media/works/sunlight-supplies/stages/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/sunlight-supplies/stages/720.mp4",
+    "poster": "/media/works/sunlight-supplies/stages/720-poster.webp"
+   }
+  ]
+ },
+ "works/sunlight-supplies/floors": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAwCdASoYAAwAPtFWpEuoJKOhsAgBABoJZwAD5GogP6Y7G5qvcrIAAP72E96XUeOeMeANXQp5rYmdfWz5VSwLA4lrexNlU+lFvysPsFekthi+vvX+Fd1++wNJqlVlbHwIcxpk7ntVvj8aQE/i4AAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/sunlight-supplies/floors/240.mp4",
+    "poster": "/media/works/sunlight-supplies/floors/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/sunlight-supplies/floors/480.mp4",
+    "poster": "/media/works/sunlight-supplies/floors/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/sunlight-supplies/floors/720.mp4",
+    "poster": "/media/works/sunlight-supplies/floors/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/sunlight-supplies/floors/720.mp4",
+    "poster": "/media/works/sunlight-supplies/floors/720-poster.webp"
+   }
+  ]
+ },
+ "works/lewix-ai/loader": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAACwAgCdASoYAAwAPtFUo0uoJKMhsAgBABoJaQAAeyAA/uyYyudqKAAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/lewix-ai/loader/240.mp4",
+    "poster": "/media/works/lewix-ai/loader/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/lewix-ai/loader/480.mp4",
+    "poster": "/media/works/lewix-ai/loader/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/lewix-ai/loader/720.mp4",
+    "poster": "/media/works/lewix-ai/loader/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/lewix-ai/loader/720.mp4",
+    "poster": "/media/works/lewix-ai/loader/720-poster.webp"
+   }
+  ]
+ },
+ "works/lewix-ai/mountain": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAwAwCdASoYAAwAPtFWpEuoJKOhsAgBABoJaQAAetg+MDTAAP7ytDeUW3l/CSHDdzRRxOTuXzhReMzeN5InV5DgAAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/lewix-ai/mountain/240.mp4",
+    "poster": "/media/works/lewix-ai/mountain/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/lewix-ai/mountain/480.mp4",
+    "poster": "/media/works/lewix-ai/mountain/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/lewix-ai/mountain/720.mp4",
+    "poster": "/media/works/lewix-ai/mountain/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/lewix-ai/mountain/720.mp4",
+    "poster": "/media/works/lewix-ai/mountain/720-poster.webp"
+   }
+  ]
+ },
+ "works/lewix-ai/team": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACQAwCdASoYAAwAPtFUo0uoJKMhsAgBABoJaQAAXBufsyJrbggAAP72iLb158PQG5X0bFm5AZHp+L9S1NUlzri11JRwCXkOAAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/lewix-ai/team/240.mp4",
+    "poster": "/media/works/lewix-ai/team/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/lewix-ai/team/480.mp4",
+    "poster": "/media/works/lewix-ai/team/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/lewix-ai/team/720.mp4",
+    "poster": "/media/works/lewix-ai/team/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/lewix-ai/team/720.mp4",
+    "poster": "/media/works/lewix-ai/team/720-poster.webp"
+   }
+  ]
+ },
+ "works/lewix-ai/footer": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAABwAwCdASoYAAwAPtFWo0uoJKMhsAgBABoJaQAAXlvCi0X2MAAA/vaAHsI4B7brBhmMgAbkeTUYHUCgAAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/lewix-ai/footer/240.mp4",
+    "poster": "/media/works/lewix-ai/footer/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/lewix-ai/footer/480.mp4",
+    "poster": "/media/works/lewix-ai/footer/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/lewix-ai/footer/720.mp4",
+    "poster": "/media/works/lewix-ai/footer/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/lewix-ai/footer/720.mp4",
+    "poster": "/media/works/lewix-ai/footer/720-poster.webp"
+   }
+  ]
+ },
+ "works/smoothsail/hero": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAwCdASoYAAwAPtFUo0uoJKMhsAgBABoJaQAAW+xKGJkLjoR/xzOAAP72CbdmhsSxs4yjg9cv19RsE1iphcjzEUYMG4PPB8PwC05tmV+HPTIF6RwrrYAAAAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/smoothsail/hero/240.mp4",
+    "poster": "/media/works/smoothsail/hero/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/smoothsail/hero/480.mp4",
+    "poster": "/media/works/smoothsail/hero/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/smoothsail/hero/720.mp4",
+    "poster": "/media/works/smoothsail/hero/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/smoothsail/hero/720.mp4",
+    "poster": "/media/works/smoothsail/hero/720-poster.webp"
+   }
+  ]
+ },
+ "works/smoothsail/malay": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAwCdASoYAAwAPtFUo0uoJKMhsAgBABoJaQAAW+v0cLrNN/cEA9MAAP703AC5cb7if8z/I4QMmHRYegAhDi6jCe67Atu7lCBnw/TgIAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/smoothsail/malay/240.mp4",
+    "poster": "/media/works/smoothsail/malay/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/smoothsail/malay/480.mp4",
+    "poster": "/media/works/smoothsail/malay/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/smoothsail/malay/720.mp4",
+    "poster": "/media/works/smoothsail/malay/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/smoothsail/malay/720.mp4",
+    "poster": "/media/works/smoothsail/malay/720-poster.webp"
+   }
+  ]
+ },
+ "works/smoothsail/pricing": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAQAwCdASoYAAwAPtFUpEuoJKOhsAgBABoJaQAAevGYy4AA/vF9K3a/E5RNgiraw5TsfCHkmUA9bXMDwAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/smoothsail/pricing/240.mp4",
+    "poster": "/media/works/smoothsail/pricing/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/smoothsail/pricing/480.mp4",
+    "poster": "/media/works/smoothsail/pricing/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/smoothsail/pricing/720.mp4",
+    "poster": "/media/works/smoothsail/pricing/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/smoothsail/pricing/720.mp4",
+    "poster": "/media/works/smoothsail/pricing/720-poster.webp"
+   }
+  ]
+ },
+ "works/lewix-my/hero": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAwCdASoYAAwAPtFWo0uoJKMhsAgBABoJaQAAex9ZQAAA/vF9bkRm1pnp+XE/VG2Mhz7d4I1jPiqb+7mlz8rp8wbUUAAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/lewix-my/hero/240.mp4",
+    "poster": "/media/works/lewix-my/hero/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/lewix-my/hero/480.mp4",
+    "poster": "/media/works/lewix-my/hero/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/lewix-my/hero/720.mp4",
+    "poster": "/media/works/lewix-my/hero/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/lewix-my/hero/720.mp4",
+    "poster": "/media/works/lewix-my/hero/720-poster.webp"
+   }
+  ]
+ },
+ "works/lewix-my/planet": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAABwAwCdASoYAAwALplotFoiqCgoCACYSygABc7LG3qPBp+chAAA/vqtuASJfD483jB5dilcPP8LgMLMqkuUk0aWym9BKuAOAAAAAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/lewix-my/planet/240.mp4",
+    "poster": "/media/works/lewix-my/planet/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/lewix-my/planet/480.mp4",
+    "poster": "/media/works/lewix-my/planet/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/lewix-my/planet/720.mp4",
+    "poster": "/media/works/lewix-my/planet/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/lewix-my/planet/720.mp4",
+    "poster": "/media/works/lewix-my/planet/720-poster.webp"
+   }
+  ]
+ },
+ "works/lewix-my/store": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACwAwCdASoYAAwAPtFUo0uoJKMhsAgBABoJYwAAW+qxpZsIb6/1QAD+83J3k0emZ7mGMMpDKnU5QZfWyXj+V6sxlcbgbO7u4rz7zHMfgmrO7j19rYQAAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/lewix-my/store/240.mp4",
+    "poster": "/media/works/lewix-my/store/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/lewix-my/store/480.mp4",
+    "poster": "/media/works/lewix-my/store/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/lewix-my/store/720.mp4",
+    "poster": "/media/works/lewix-my/store/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/lewix-my/store/720.mp4",
+    "poster": "/media/works/lewix-my/store/720-poster.webp"
+   }
+  ]
+ },
+ "works/lewix-my/footer": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACQAwCdASoYAAwAPtFapkyoJSOiMAgBABoJZwAAW9NbRra/uEBAAP7zmstyX+2GPb4Yf07xCIEMp5fdxKdSIB3x/VcbVfpu79M67+u+HHNwPB9pQ6GkAAAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/lewix-my/footer/240.mp4",
+    "poster": "/media/works/lewix-my/footer/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/lewix-my/footer/480.mp4",
+    "poster": "/media/works/lewix-my/footer/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/lewix-my/footer/720.mp4",
+    "poster": "/media/works/lewix-my/footer/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/lewix-my/footer/720.mp4",
+    "poster": "/media/works/lewix-my/footer/720-poster.webp"
+   }
+  ]
+ },
+ "works/meridian/strip": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAwCdASoYAAwAPtFcpkyoJSOiMAgBABoJaQAAW+mQ0GNwJRM2AAD+9YhRbSMmdQ2egWX5ea5Wx8rgCy2bGe4WSsY4AA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/meridian/strip/240.mp4",
+    "poster": "/media/works/meridian/strip/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/meridian/strip/480.mp4",
+    "poster": "/media/works/meridian/strip/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/meridian/strip/720.mp4",
+    "poster": "/media/works/meridian/strip/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/meridian/strip/720.mp4",
+    "poster": "/media/works/meridian/strip/720-poster.webp"
+   }
+  ]
+ },
+ "works/meridian/titles": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACQAwCdASoYAAwAPtFUo0uoJKMhsAgBABoJaQAAW8mdrL5pc1xoAP71iFV0QeeUpTAqoMP8/QsHlxAMD5JMoo1geDJf4Sm2vDPblD6qjddLhWAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/meridian/titles/240.mp4",
+    "poster": "/media/works/meridian/titles/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/meridian/titles/480.mp4",
+    "poster": "/media/works/meridian/titles/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/meridian/titles/720.mp4",
+    "poster": "/media/works/meridian/titles/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/meridian/titles/720.mp4",
+    "poster": "/media/works/meridian/titles/720-poster.webp"
+   }
+  ]
+ },
+ "works/meridian/studio": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwBACdASoYAAwAPtFWpUwoJKOiMAgBABoJZwC7ACHeebtThnfxKZYnEAAA/uetv+lOcJDgx7N5u7ynWzSKeh1iQJFvAlt3+OiDZD/Q/Aun7gWto51QZos4WxSALGuAAAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/meridian/studio/240.mp4",
+    "poster": "/media/works/meridian/studio/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/meridian/studio/480.mp4",
+    "poster": "/media/works/meridian/studio/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/meridian/studio/720.mp4",
+    "poster": "/media/works/meridian/studio/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/meridian/studio/720.mp4",
+    "poster": "/media/works/meridian/studio/720-poster.webp"
+   }
+  ]
+ },
+ "works/meridian/pricing": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAQBACdASoYAAwAPtFUo0uoJKMhsAgBABoJZQDE2B6SDFaJra8gy7O+gAD+562/2yq0XSt0HBt7tuBJ5iAmVtadMRbYZ3qhXQ9Yi6z7YcT2SEIx273Rx04ZQh3mUsdgzTSo0kSHtuJWSqu8Q7mOU1rE+IhYw4vcor7n66Zm2GoAAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/meridian/pricing/240.mp4",
+    "poster": "/media/works/meridian/pricing/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/meridian/pricing/480.mp4",
+    "poster": "/media/works/meridian/pricing/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/meridian/pricing/720.mp4",
+    "poster": "/media/works/meridian/pricing/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/meridian/pricing/720.mp4",
+    "poster": "/media/works/meridian/pricing/720-poster.webp"
+   }
+  ]
+ },
+ "works/big-brain-furniture-alt/hero": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwBACdASoYAAwAPtFWo0uoJKMhsAgBABoJZQCdAYw6rOADurZMy/JArYAA/B/uO65UHlp4c7gCkxtELyewls4K9zBaGfF/XWYeKG5N0QtEf9/l9Pk/M5kR+fvZXlvvzEyjbPjLC9AcJLOEBvBUunwtG3s23sEM2b1UdnVfOeXuekzIUgA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/big-brain-furniture-alt/hero/240.mp4",
+    "poster": "/media/works/big-brain-furniture-alt/hero/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/big-brain-furniture-alt/hero/480.mp4",
+    "poster": "/media/works/big-brain-furniture-alt/hero/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/big-brain-furniture-alt/hero/720.mp4",
+    "poster": "/media/works/big-brain-furniture-alt/hero/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/big-brain-furniture-alt/hero/720.mp4",
+    "poster": "/media/works/big-brain-furniture-alt/hero/720-poster.webp"
+   }
+  ]
+ },
+ "works/big-brain-furniture-alt/wood": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADwAwCdASoYAAwAPtFUpEuoJKOhsAgBABoJYwCdACHnnCOnttX9tDgwAP7zfyF/wFeLixccF5f/uw7WMpSE2c0x1hpHgsGwgQ/PR90AWeGuPcITwk9rRkld8DImbPJ2B9/rLPdThuuxaSy6Ql0xX/hUL0GLJTrxZ6zUsBaS229UAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/big-brain-furniture-alt/wood/240.mp4",
+    "poster": "/media/works/big-brain-furniture-alt/wood/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/big-brain-furniture-alt/wood/480.mp4",
+    "poster": "/media/works/big-brain-furniture-alt/wood/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/big-brain-furniture-alt/wood/720.mp4",
+    "poster": "/media/works/big-brain-furniture-alt/wood/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/big-brain-furniture-alt/wood/720.mp4",
+    "poster": "/media/works/big-brain-furniture-alt/wood/720-poster.webp"
+   }
+  ]
+ },
+ "works/big-brain-furniture-alt/storage": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAQBACdASoYAAwAPtFapkyoJSOiMAgBABoJZQC7ACFb2AxP3CtkJ+S6wAD+85VF6PrJrtPW/eOt+U7ZE+Bmq7oJQKGMzeaYzGGYTeZlt6i/xg4sj3rzhU35+LenkQmNTcvZRSHsqK97YqEJxpVzUpP2armwmL3wuReE5eansAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/big-brain-furniture-alt/storage/240.mp4",
+    "poster": "/media/works/big-brain-furniture-alt/storage/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/big-brain-furniture-alt/storage/480.mp4",
+    "poster": "/media/works/big-brain-furniture-alt/storage/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/big-brain-furniture-alt/storage/720.mp4",
+    "poster": "/media/works/big-brain-furniture-alt/storage/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/big-brain-furniture-alt/storage/720.mp4",
+    "poster": "/media/works/big-brain-furniture-alt/storage/720-poster.webp"
+   }
+  ]
+ },
+ "works/big-brain-furniture-alt/objects": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQAwCdASoYAAwAPtFUpEuoJKOhsAgBABoJZQCw7BSyOPBtOHJEGgAA/odAMh+5Qh1U5tAi54bBAcO10piFpo4UXMZ2s92RS6uuIDqHh81OV3guhk7/L+j/rdn3Rg9W1f8LHaf9zMiluJA5sTPk22EYHUcgAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/big-brain-furniture-alt/objects/240.mp4",
+    "poster": "/media/works/big-brain-furniture-alt/objects/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/big-brain-furniture-alt/objects/480.mp4",
+    "poster": "/media/works/big-brain-furniture-alt/objects/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/big-brain-furniture-alt/objects/720.mp4",
+    "poster": "/media/works/big-brain-furniture-alt/objects/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/big-brain-furniture-alt/objects/720.mp4",
+    "poster": "/media/works/big-brain-furniture-alt/objects/720-poster.webp"
+   }
+  ]
+ },
+ "lab/brand-film": {
+  "type": "video",
+  "width": 1920,
+  "height": 1080,
+  "placeholder": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAACwAgCdASoYAA4APtFUo0uoJKMhsAgBABoJaQAAeyAA/vIcphAAAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/lab/brand-film/240.mp4",
+    "poster": "/media/lab/brand-film/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/lab/brand-film/480.mp4",
+    "poster": "/media/lab/brand-film/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/lab/brand-film/720.mp4",
+    "poster": "/media/lab/brand-film/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/lab/brand-film/original.mp4",
+    "poster": "/media/lab/brand-film/original-poster.webp"
+   }
+  ]
+ },
+ "lab/word-captions": {
+  "type": "video",
+  "width": 1080,
+  "height": 1920,
+  "placeholder": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAABQBQCdASoYACoAPtFWpkyoJKOiMBVaqQAaCWkA0JAuZ7h+B+TxWeq8O/6vOaAmE7Gr7AAA/vkOVN1dWowR88D0CcknThTM6WPPM+1Fhyoa1RXyTIQmXzOsOwjsF/QeuMeWHg5PrfaltEcSo6xCvCf6e1uDj/qGT4idCFu3t6GS8/MaUP8/9tqfd5cfeLapNzC0/EkONqvf4uF0kaobHvAmMGK4uBj8gxPDJzZfrMD6pd0U95W+kqUmEAsK7lIFv+87RoAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/lab/word-captions/240.mp4",
+    "poster": "/media/lab/word-captions/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/lab/word-captions/480.mp4",
+    "poster": "/media/lab/word-captions/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/lab/word-captions/720.mp4",
+    "poster": "/media/lab/word-captions/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/lab/word-captions/original.mp4",
+    "poster": "/media/lab/word-captions/original-poster.webp"
+   }
+  ]
+ },
+ "lab/whatsapp-chat": {
+  "type": "video",
+  "width": 1080,
+  "height": 1920,
+  "placeholder": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAACQBgCdASoYACoAPtFeok0oJaMiKrgN+QAaCWUAzUghTF3lFAX/3EvMnnMSSX9Rw7aPZJ7lAsLW4urwbmGAAP7rvNTHC0o+J8hgSzqK+PkBgyxOGMOPuVsXrwIo+GlEYnz4pVvSrS7BjwvCUjkjJqiuRv9+Rx7DWrrOGBishgVKIdqmf+ewOkmwzVu8ad6jxyIBrx61xiJIOccQMoieIt0RnfaqG/udlkwV/7pZPYf5uYi3zn7iy9xJCiCmdoHny+kxi6LgiinQKJrc3tb7LJJ9lvBXgAAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/lab/whatsapp-chat/240.mp4",
+    "poster": "/media/lab/whatsapp-chat/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/lab/whatsapp-chat/480.mp4",
+    "poster": "/media/lab/whatsapp-chat/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/lab/whatsapp-chat/720.mp4",
+    "poster": "/media/lab/whatsapp-chat/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/lab/whatsapp-chat/original.mp4",
+    "poster": "/media/lab/whatsapp-chat/original-poster.webp"
+   }
+  ]
+ },
+ "lab/process-board": {
+  "type": "video",
+  "width": 1080,
+  "height": 1080,
+  "placeholder": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAADwBACdASoYABgAPtFapE0oJSMiKA1RABoJZQAD5MkHZZSt5kiDWwwXVQ8TI4K6zAAA/u/8gMwBw66h7AwXfbPeeHCbsNx6nLaqZLngJfZBaE08bor0wEEARusYdo9PokxklHj6X2RqeWE4B1BN8qRg/OP3aObcDnqlW55xh1PUZCg6E2d27fawfRTD+7Ucks/g/86eMut1EXWb/+zLr4p83K+BfDrwVm7E3Z2/NNYEAAAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/lab/process-board/240.mp4",
+    "poster": "/media/lab/process-board/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/lab/process-board/480.mp4",
+    "poster": "/media/lab/process-board/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/lab/process-board/720.mp4",
+    "poster": "/media/lab/process-board/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/lab/process-board/original.mp4",
+    "poster": "/media/lab/process-board/original-poster.webp"
+   }
+  ]
+ },
+ "lab/pricing-film": {
+  "type": "video",
+  "width": 1080,
+  "height": 1350,
+  "placeholder": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADwBACdASoYAB4APtFYpk0oJSOiMBgIAQAaCWcAxkAPRuiuGcAzpMm1ai2fY78Xt4AA/vIv8PyatluXrVxYncVQ/HWuOVpzXy5+25gpwgKnX3j26WijjGDDbVhK1hIgalKCOKI7X3R2Qt4/96Hvbte8ZjIVdWMoXLzltzFViSCngAAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/lab/pricing-film/240.mp4",
+    "poster": "/media/lab/pricing-film/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/lab/pricing-film/480.mp4",
+    "poster": "/media/lab/pricing-film/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/lab/pricing-film/720.mp4",
+    "poster": "/media/lab/pricing-film/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/lab/pricing-film/original.mp4",
+    "poster": "/media/lab/pricing-film/original-poster.webp"
+   }
+  ]
+ },
+ "lab/gallery-walk": {
+  "type": "video",
+  "width": 1920,
+  "height": 1080,
+  "placeholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAABQBACdASoYAA4APtFWpEuoJKOhsAgBABoJZQCo9B7GvoAPPHdvuzBxoa/AAP7f0+jM0k08JPMKfQIKFc06O7AlH/IDruSfgbRomCNuRCTbXLe2xYI90limG5vfzerEsT57EkGE+I3GBuRFjWnX2dnyTS2hWoWwCCLFSOdsVx3vzE5xHAdStf8Q78XH2w6ykNh06sx6k+oAAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/lab/gallery-walk/240.mp4",
+    "poster": "/media/lab/gallery-walk/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/lab/gallery-walk/480.mp4",
+    "poster": "/media/lab/gallery-walk/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/lab/gallery-walk/720.mp4",
+    "poster": "/media/lab/gallery-walk/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/lab/gallery-walk/original.mp4",
+    "poster": "/media/lab/gallery-walk/original-poster.webp"
+   }
+  ]
+ },
+ "lab/kinetic-manifesto": {
+  "type": "video",
+  "width": 1080,
+  "height": 1920,
+  "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwBACdASoYACoAPtFcp04oJSOiKqgBABoJaQDKeBQlmvPt6Zbaxw7s/8AA/vM035q+c97KJS4+V71L0ywPOkn6mtyAVPbcx+f4cUfWvtoYbJr2h5IFerntSnd3h8mU5v7Ngpuy7v4UsHV6c393+bgvAAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/lab/kinetic-manifesto/240.mp4",
+    "poster": "/media/lab/kinetic-manifesto/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/lab/kinetic-manifesto/480.mp4",
+    "poster": "/media/lab/kinetic-manifesto/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/lab/kinetic-manifesto/720.mp4",
+    "poster": "/media/lab/kinetic-manifesto/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/lab/kinetic-manifesto/original.mp4",
+    "poster": "/media/lab/kinetic-manifesto/original-poster.webp"
+   }
+  ]
+ },
+ "showreel": {
+  "type": "video",
+  "width": 1920,
+  "height": 1080,
+  "placeholder": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAACwAgCdASoYAA4APtFUo0uoJKMhsAgBABoJaQAAeyAA/vIcphAAAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/showreel/240.mp4",
+    "poster": "/media/showreel/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/showreel/480.mp4",
+    "poster": "/media/showreel/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/showreel/720.mp4",
+    "poster": "/media/showreel/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/showreel/original.mp4",
+    "poster": "/media/showreel/original-poster.webp"
+   }
+  ]
+ },
+ "lab/fisheye-slider": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAADQAwCdASoYAAwAPtFWo0uoJKMhsAgBABoJZwAAWnhS7kxwdrIe+wAA/uwRSv0YjXf72UvNi5pa50hFYEZ1k5GuIRyV16bnMhzoZbACQHobnW1kNXH8H+GdfZnomN8WMb3SbkCJnLKtNy+zS9RYShwES5xk7c4VAoAAAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/lab/fisheye-slider/240.mp4",
+    "poster": "/media/lab/fisheye-slider/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/lab/fisheye-slider/480.mp4",
+    "poster": "/media/lab/fisheye-slider/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/lab/fisheye-slider/720.mp4",
+    "poster": "/media/lab/fisheye-slider/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/lab/fisheye-slider/720.mp4",
+    "poster": "/media/lab/fisheye-slider/720-poster.webp"
+   }
+  ]
+ },
+ "lab/tile-intro": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAABwAwCdASoYAAwAPtFUo0uoJKMhsAgBABoJZwAAW4P0RSMAAAAA/vN0rtkwCV7ZoDQ9o+dQq4VWGm5hjodDFaXlawoLQ0rQyP4G8GgUAAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/lab/tile-intro/240.mp4",
+    "poster": "/media/lab/tile-intro/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/lab/tile-intro/480.mp4",
+    "poster": "/media/lab/tile-intro/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/lab/tile-intro/720.mp4",
+    "poster": "/media/lab/tile-intro/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/lab/tile-intro/720.mp4",
+    "poster": "/media/lab/tile-intro/720-poster.webp"
+   }
+  ]
+ },
+ "lab/rack-assembly": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAwAwCdASoYAAwAPtFUo0uoJKMhsAgBABoJaQAAeuwlknAAAP7yD+Ji6wmIwqlOro133Ma1CJAC1lnSnIna54GhwAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/lab/rack-assembly/240.mp4",
+    "poster": "/media/lab/rack-assembly/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/lab/rack-assembly/480.mp4",
+    "poster": "/media/lab/rack-assembly/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/lab/rack-assembly/720.mp4",
+    "poster": "/media/lab/rack-assembly/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/lab/rack-assembly/720.mp4",
+    "poster": "/media/lab/rack-assembly/720-poster.webp"
+   }
+  ]
+ },
+ "lab/particle-mountain": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAACwAgCdASoYAAwAPtFUo0uoJKMhsAgBABoJaQAAeyAA/uyYyudqKAAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/lab/particle-mountain/240.mp4",
+    "poster": "/media/lab/particle-mountain/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/lab/particle-mountain/480.mp4",
+    "poster": "/media/lab/particle-mountain/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/lab/particle-mountain/720.mp4",
+    "poster": "/media/lab/particle-mountain/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/lab/particle-mountain/720.mp4",
+    "poster": "/media/lab/particle-mountain/720-poster.webp"
+   }
+  ]
+ },
+ "lab/card-strip": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAwCdASoYAAwAPtFcpkyoJSOiMAgBABoJaQAAW+mQ0GNypqM2AAD+9YhRbSMmdQ2egWX5ea5Wx8qoPaQNus8dNjHAAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/lab/card-strip/240.mp4",
+    "poster": "/media/lab/card-strip/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/lab/card-strip/480.mp4",
+    "poster": "/media/lab/card-strip/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/lab/card-strip/720.mp4",
+    "poster": "/media/lab/card-strip/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/lab/card-strip/720.mp4",
+    "poster": "/media/lab/card-strip/720-poster.webp"
+   }
+  ]
+ },
+ "lab/kinetic-titles": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACQAwCdASoYAAwAPtFUpEuoJKOhsAgBABoJaQAAW5ueaV03+9oAAP71iFOM1+gVgY7GWe3rLvlFdXhVnAh6JppwmHmBJ2lpMPgqVD3YkMAAAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/lab/kinetic-titles/240.mp4",
+    "poster": "/media/lab/kinetic-titles/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/lab/kinetic-titles/480.mp4",
+    "poster": "/media/lab/kinetic-titles/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/lab/kinetic-titles/720.mp4",
+    "poster": "/media/lab/kinetic-titles/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/lab/kinetic-titles/720.mp4",
+    "poster": "/media/lab/kinetic-titles/720-poster.webp"
+   }
+  ]
+ },
+ "lab/halftone-field": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAgCdASoYAAwAPtFUo0uoJKMhsAgBABoJaQAAeyAA/vBAa9MTf/df7DdbE4b20PnkOAAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/lab/halftone-field/240.mp4",
+    "poster": "/media/lab/halftone-field/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/lab/halftone-field/480.mp4",
+    "poster": "/media/lab/halftone-field/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/lab/halftone-field/720.mp4",
+    "poster": "/media/lab/halftone-field/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/lab/halftone-field/720.mp4",
+    "poster": "/media/lab/halftone-field/720-poster.webp"
+   }
+  ]
+ },
+ "lab/quote-calculator": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAADwAwCdASoYAAwAPtFUo0uoJKMhsAgBABoJZwC7ACG8Y+6WaWW+kUMAAP7rjtbcSD4lxS61Fi9agvpHtkcNv/CryeGYzPG+80ZTBaGrPQnNnBeZAahOUk3iKWJ/Y4e9xTBOp1mxEaVaXAwponry3/8NfNvj55h+Rqqef/JoWt//9XXZ3n8SSutyTGOev+P0ep+M3X88QthSUAZT/4W2g+AA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/lab/quote-calculator/240.mp4",
+    "poster": "/media/lab/quote-calculator/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/lab/quote-calculator/480.mp4",
+    "poster": "/media/lab/quote-calculator/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/lab/quote-calculator/720.mp4",
+    "poster": "/media/lab/quote-calculator/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/lab/quote-calculator/720.mp4",
+    "poster": "/media/lab/quote-calculator/720-poster.webp"
+   }
+  ]
+ },
+ "lab/flying-gallery": {
+  "type": "video",
+  "width": 1904,
+  "height": 944,
+  "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASoYAAwAPtFWpEuoJKOhsAgBABoJQBOgAtov5KJdd39IRdzAAAD+vHNZS0baYdHuPeEBUsDl5k9490+2aTEsK/+ixS/4LLjjBX09r7sHYy5BCeNAcDh9akHUtd3C17De9idD9wAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/lab/flying-gallery/240.mp4",
+    "poster": "/media/lab/flying-gallery/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/lab/flying-gallery/480.mp4",
+    "poster": "/media/lab/flying-gallery/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/lab/flying-gallery/720.mp4",
+    "poster": "/media/lab/flying-gallery/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/lab/flying-gallery/720.mp4",
+    "poster": "/media/lab/flying-gallery/720-poster.webp"
+   }
+  ]
+ },
+ "works/hai-awan/load": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAQBACdASoYAA4APtFUo0uoJKMhsAgBABoJZQAARN+r1r+dWTbKf/qYAAD+7lpdZ1/h1/fRbQnYBDM9Rpc1SC0SyRqaNJtUzgyxnvEIlbDLbULXUldRMQqEXwUBxbkpv+EYahjPdZL3/6GzqT+tx77XQUt1KKE7CjN6jXSCSuQTQS8izvG2AAAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/hai-awan/load/240.mp4",
+    "poster": "/media/works/hai-awan/load/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/hai-awan/load/480.mp4",
+    "poster": "/media/works/hai-awan/load/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/hai-awan/load/720.mp4",
+    "poster": "/media/works/hai-awan/load/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/hai-awan/load/720.mp4",
+    "poster": "/media/works/hai-awan/load/720-poster.webp"
+   }
+  ]
+ },
+ "works/hai-awan/scroll": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwBACdASoYAA4APtFUo0uoJKMhsAgBABoJZQC7B2gAR2RVHOFY8W0G5gAA/uu8I9UjnVrxNLGJxWkyMT9whr9qd9JRj4nxXDxtmihOBHjS1B1RfqdTKMEUOlk83F5I/84LxKy/+j+m5ZS/SuRdZ42A2M5UqaZ9w7j9j+DxAYxKqEAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/hai-awan/scroll/240.mp4",
+    "poster": "/media/works/hai-awan/scroll/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/hai-awan/scroll/480.mp4",
+    "poster": "/media/works/hai-awan/scroll/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/hai-awan/scroll/720.mp4",
+    "poster": "/media/works/hai-awan/scroll/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/hai-awan/scroll/720.mp4",
+    "poster": "/media/works/hai-awan/scroll/720-poster.webp"
+   }
+  ]
+ },
+ "works/ff-member/load": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAAAwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJaQAAetHTq1CgAP7xqp0Co8+4BTwWEgjAAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-member/load/240.mp4",
+    "poster": "/media/works/ff-member/load/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-member/load/480.mp4",
+    "poster": "/media/works/ff-member/load/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-member/load/720.mp4",
+    "poster": "/media/works/ff-member/load/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-member/load/720.mp4",
+    "poster": "/media/works/ff-member/load/720-poster.webp"
+   }
+  ]
+ },
+ "works/ff-member/scroll": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACQAwCdASoYAA4APtFYpEwoJSOiMAgBABoJaQAAW+ueUOh5rzmAAP71ZsoHAGbe+YQd6R5XZP7TCOfAAAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-member/scroll/240.mp4",
+    "poster": "/media/works/ff-member/scroll/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-member/scroll/480.mp4",
+    "poster": "/media/works/ff-member/scroll/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-member/scroll/720.mp4",
+    "poster": "/media/works/ff-member/scroll/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-member/scroll/720.mp4",
+    "poster": "/media/works/ff-member/scroll/720-poster.webp"
+   }
+  ]
+ },
+ "works/indahnya/load": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAQBACdASoYAA4APtFUo0uoJKMhsAgBABoJZwDKACHhhfitsH8yNbMX4AD+8i+WFZZeIz94Ux8XDZgpB7ap+xIbsUtKVJuNBv7dCbu4VjnzROZpNVlCEbczdDOJdIImn2liePhCJik7QawSLeBz0LGIekoUIcvEvkKXO4+/zopL96JAQcGEHLP0Z6UxYAAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/indahnya/load/240.mp4",
+    "poster": "/media/works/indahnya/load/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/indahnya/load/480.mp4",
+    "poster": "/media/works/indahnya/load/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/indahnya/load/720.mp4",
+    "poster": "/media/works/indahnya/load/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/indahnya/load/720.mp4",
+    "poster": "/media/works/indahnya/load/720-poster.webp"
+   }
+  ]
+ },
+ "works/indahnya/scroll": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADQAwCdASoYAA4APtFYpEwoJSOiMAgBABoJaQAAUqcxrFtLeKkJ/HAA/vIvlj2yJ2AwMhE2z6o0kb1hSGsWoHj/yb+njrFBYq3S9tIwgA7JELDn0XqmTRl4AHcyrt507n7g/qfEpXu4HXvbST0daAHAAAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/indahnya/scroll/240.mp4",
+    "poster": "/media/works/indahnya/scroll/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/indahnya/scroll/480.mp4",
+    "poster": "/media/works/indahnya/scroll/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/indahnya/scroll/720.mp4",
+    "poster": "/media/works/indahnya/scroll/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/indahnya/scroll/720.mp4",
+    "poster": "/media/works/indahnya/scroll/720-poster.webp"
+   }
+  ]
+ },
+ "works/big-brain-furniture/load": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQAwCdASoYAA4APtFWpEuoJKOhsAgBABoJZwC/OCHfw2gA7n5JtCwA/vDGMMeAxKCV8F9ysoi+0H/H+iUnLpBw3oE+1PoITzg2KbKLSKAjS8zmC/6iZfetyhGpTMIie0V9cTPMQ1dtwAAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/big-brain-furniture/load/240.mp4",
+    "poster": "/media/works/big-brain-furniture/load/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/big-brain-furniture/load/480.mp4",
+    "poster": "/media/works/big-brain-furniture/load/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/big-brain-furniture/load/720.mp4",
+    "poster": "/media/works/big-brain-furniture/load/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/big-brain-furniture/load/720.mp4",
+    "poster": "/media/works/big-brain-furniture/load/720-poster.webp"
+   }
+  ]
+ },
+ "works/big-brain-furniture/scroll": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAADwAwCdASoYAA4APtFWpEwoJKOiMAgBABoJZwC/OB7HnMwx2B+EHFRQAP7xc3Zlo+9lO00w7hR65N9CaVr5HTlH9SdEoKVcfW4TTF/JcyXsm0VCpM2lovQH+v8xT0e0ttQXrz/19y/YIdPv0RJBEQYEPctuDurQjMMAAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/big-brain-furniture/scroll/240.mp4",
+    "poster": "/media/works/big-brain-furniture/scroll/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/big-brain-furniture/scroll/480.mp4",
+    "poster": "/media/works/big-brain-furniture/scroll/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/big-brain-furniture/scroll/720.mp4",
+    "poster": "/media/works/big-brain-furniture/scroll/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/big-brain-furniture/scroll/720.mp4",
+    "poster": "/media/works/big-brain-furniture/scroll/720-poster.webp"
+   }
+  ]
+ },
+ "works/ascend-peptides/load": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADQAwCdASoYAA4APtFYpEwoJSOiMAgBABoJZwAAW+tsmT/RVgCzsBwA/s4HoIt/qspCJykNsr8hcy3ugSUV+v916q9hp6oyFvXTo5EsF+0NUUPsALY1AUKgPfA60bvrQvPfpVvian1Q5hf10bT7mFPH8HNPyb5/O/Cgkk2RJbPkkQAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ascend-peptides/load/240.mp4",
+    "poster": "/media/works/ascend-peptides/load/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ascend-peptides/load/480.mp4",
+    "poster": "/media/works/ascend-peptides/load/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ascend-peptides/load/720.mp4",
+    "poster": "/media/works/ascend-peptides/load/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ascend-peptides/load/720.mp4",
+    "poster": "/media/works/ascend-peptides/load/720-poster.webp"
+   }
+  ]
+ },
+ "works/ascend-peptides/scroll": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAABwBACdASoYAA4APtFUo0uoJKMhsAgBABoJZwDLMagBnVwf7Jbj2K3uCagoAAD+0P/RNwAIgKGc+HG3mGmHjPGkX4m+PledxIyjzO3BQdJeY/jNFfjn4T+1RF+1HR1B4tk78d1Obl0TdId1oWXKYZ89XHphcfDLlqUjaTGfzdH0pW9/ibonP045PCyqQyvm/cCxU1jY6yU/ZUWlD6EwDqAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ascend-peptides/scroll/240.mp4",
+    "poster": "/media/works/ascend-peptides/scroll/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ascend-peptides/scroll/480.mp4",
+    "poster": "/media/works/ascend-peptides/scroll/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ascend-peptides/scroll/720.mp4",
+    "poster": "/media/works/ascend-peptides/scroll/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ascend-peptides/scroll/720.mp4",
+    "poster": "/media/works/ascend-peptides/scroll/720-poster.webp"
+   }
+  ]
+ },
+ "works/obys-translation/load": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/obys-translation/load/240.mp4",
+    "poster": "/media/works/obys-translation/load/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/obys-translation/load/480.mp4",
+    "poster": "/media/works/obys-translation/load/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/obys-translation/load/720.mp4",
+    "poster": "/media/works/obys-translation/load/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/obys-translation/load/720.mp4",
+    "poster": "/media/works/obys-translation/load/720-poster.webp"
+   }
+  ]
+ },
+ "works/obys-translation/scroll": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAABwAwCdASoYAA4APtFUpEuoJKOhsAgBABoJaQAAUrf41AVlyAAA/ut4/E9+UHt9YXysV/jFqkKaRdr2G1fLrCzyZmtOWi4qSmaokRfYVFMNAjXgdgAAAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/obys-translation/scroll/240.mp4",
+    "poster": "/media/works/obys-translation/scroll/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/obys-translation/scroll/480.mp4",
+    "poster": "/media/works/obys-translation/scroll/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/obys-translation/scroll/720.mp4",
+    "poster": "/media/works/obys-translation/scroll/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/obys-translation/scroll/720.mp4",
+    "poster": "/media/works/obys-translation/scroll/720-poster.webp"
+   }
+  ]
+ },
+ "works/basement-translation/load": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAgCdASoYAA4APtFUo0uoJKMisAgBABoJaQAAeyAA/vM/Dau6IRgAAAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/basement-translation/load/240.mp4",
+    "poster": "/media/works/basement-translation/load/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/basement-translation/load/480.mp4",
+    "poster": "/media/works/basement-translation/load/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/basement-translation/load/720.mp4",
+    "poster": "/media/works/basement-translation/load/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/basement-translation/load/720.mp4",
+    "poster": "/media/works/basement-translation/load/720-poster.webp"
+   }
+  ]
+ },
+ "works/basement-translation/scroll": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAgCdASoYAA4APtFWo0uoJKMhsAgBABoJaQAAeyAA/vL/A9tsPE+2VdGOAAAA",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/basement-translation/scroll/240.mp4",
+    "poster": "/media/works/basement-translation/scroll/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/basement-translation/scroll/480.mp4",
+    "poster": "/media/works/basement-translation/scroll/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/basement-translation/scroll/720.mp4",
+    "poster": "/media/works/basement-translation/scroll/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/basement-translation/scroll/720.mp4",
+    "poster": "/media/works/basement-translation/scroll/720-poster.webp"
+   }
+  ]
+ },
+ "works/ff-phantom/intro": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAwCdASoYAA4APtFWo0uoJKMhsAgBABoJaQAAW+uJDAqxN2UJ2gAA/vdzmILLK9Py9Nn6lqFk9IXAQLO01cYcXGGI7osI+AA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-phantom/intro/240.mp4",
+    "poster": "/media/works/ff-phantom/intro/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-phantom/intro/480.mp4",
+    "poster": "/media/works/ff-phantom/intro/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-phantom/intro/720.mp4",
+    "poster": "/media/works/ff-phantom/intro/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-phantom/intro/720.mp4",
+    "poster": "/media/works/ff-phantom/intro/720-poster.webp"
+   }
+  ]
+ },
+ "works/ff-phantom/grid": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAADQBACdASoYAA4APtFUo0uoJKMhsAgBABoJZwAD5qoO7YsadiHjEg7CHRBBTU/aAAD+9X+GIwwtQvMWqXKjQjXpZD5pmbdqEXC8gpYWVPL91nTa5zvL7Mj7C4AWxB8BqqJT61PpEOwyNUgkKX8bN3TXgS3MD8AG3pVwW8+AzDvS7fhC2+UKqxPdAf1HuwByBV0xwv0teyetEpALrnKd3s1i3p4TaQDe0/usfiw+9iUAw3zJcM8qCZHqXTy6cYvNgAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-phantom/grid/240.mp4",
+    "poster": "/media/works/ff-phantom/grid/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-phantom/grid/480.mp4",
+    "poster": "/media/works/ff-phantom/grid/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-phantom/grid/720.mp4",
+    "poster": "/media/works/ff-phantom/grid/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-phantom/grid/720.mp4",
+    "poster": "/media/works/ff-phantom/grid/720-poster.webp"
+   }
+  ]
+ },
+ "works/ff-siena/load": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACwAwCdASoYAA4APtFWpEuoJKOhsAgBABoJaQAD4SIN/DRi723oAAD+93MX0o/Tqd9QmRktimuqoMoScLvpL7HEXNESrWp+erN5FczFvAAAAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-siena/load/240.mp4",
+    "poster": "/media/works/ff-siena/load/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-siena/load/480.mp4",
+    "poster": "/media/works/ff-siena/load/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-siena/load/720.mp4",
+    "poster": "/media/works/ff-siena/load/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-siena/load/720.mp4",
+    "poster": "/media/works/ff-siena/load/720-poster.webp"
+   }
+  ]
+ },
+ "works/ff-cellar/load": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJaQAASosf9n03+ULCAAD+9DMN61KbT7ogRW77Ii04WmYvatAOzFf46e6OlQtnxFfOAJ6rrOlJ/61JkKlZAFggEzpApB0WE3s3fHEVT0pzVy7+cHYfyNfD9AAAAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-cellar/load/240.mp4",
+    "poster": "/media/works/ff-cellar/load/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-cellar/load/480.mp4",
+    "poster": "/media/works/ff-cellar/load/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-cellar/load/720.mp4",
+    "poster": "/media/works/ff-cellar/load/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-cellar/load/720.mp4",
+    "poster": "/media/works/ff-cellar/load/720-poster.webp"
+   }
+  ]
+ },
+ "works/ff-cellar/scroll": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwBACdASoYAA4APtFUo0uoJKMhsAgBABoJZQCw7BulHX8siqOW7P6ahGAA/vEScYzsqitustAEVo8RA/vyecIqY8tb881K1uY+Wxjz99FxHM6D96s4HPhyY5BUuKcJr1fpulXvQyF3ViIMaupR0/6AAAA=",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/works/ff-cellar/scroll/240.mp4",
+    "poster": "/media/works/ff-cellar/scroll/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/works/ff-cellar/scroll/480.mp4",
+    "poster": "/media/works/ff-cellar/scroll/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/works/ff-cellar/scroll/720.mp4",
+    "poster": "/media/works/ff-cellar/scroll/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/works/ff-cellar/scroll/720.mp4",
+    "poster": "/media/works/ff-cellar/scroll/720-poster.webp"
+   }
+  ]
+ },
+ "lab/wrapping-grid": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAADQAwCdASoYAA4APtFUo0uoJKMhsAgBABoJZwAu/8Wwm23G7bAYQQAA/vWL2kNVaoRqYL5A7jGZrlYCfziZaXjkDXDgH/PXyZBNKfvP+v1Tbi/xoPo4bxZMJHtXFWFs93OydU6333lkc9Zg8gESl9m/Pmnz+dOP1ua4kU+fx8PfuilGYhx+kv03E1+lf5+hupojRpPtsmKbfUT/qAwzUASEWUbvqY+8PPitH74xyD6TnOG3oV2AAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/lab/wrapping-grid/240.mp4",
+    "poster": "/media/lab/wrapping-grid/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/lab/wrapping-grid/480.mp4",
+    "poster": "/media/lab/wrapping-grid/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/lab/wrapping-grid/720.mp4",
+    "poster": "/media/lab/wrapping-grid/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/lab/wrapping-grid/720.mp4",
+    "poster": "/media/lab/wrapping-grid/720-poster.webp"
+   }
+  ]
+ },
+ "lab/lockup-intro": {
+  "type": "video",
+  "width": 1600,
+  "height": 900,
+  "placeholder": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAwCdASoYAA4APtFWo0uoJKMhsAgBABoJaQAAW+uJDAqxN2UB9AD+93OYgssr0/L02fqWoWT0hcBAs7TVxhxcYYjz0tMBVQAAAA==",
+  "renditions": [
+   {
+    "quality": "240",
+    "url": "/media/lab/lockup-intro/240.mp4",
+    "poster": "/media/lab/lockup-intro/240-poster.webp"
+   },
+   {
+    "quality": "480",
+    "url": "/media/lab/lockup-intro/480.mp4",
+    "poster": "/media/lab/lockup-intro/480-poster.webp"
+   },
+   {
+    "quality": "720",
+    "url": "/media/lab/lockup-intro/720.mp4",
+    "poster": "/media/lab/lockup-intro/720-poster.webp"
+   },
+   {
+    "quality": "original",
+    "url": "/media/lab/lockup-intro/720.mp4",
+    "poster": "/media/lab/lockup-intro/720-poster.webp"
+   }
+  ]
+ }
+}

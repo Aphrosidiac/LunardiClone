@@ -1,0 +1,424 @@
+[
+ {
+  "slug": "hai-awan",
+  "title": "Hai Awan",
+  "client": "FF Dev Studio",
+  "zone": "product",
+  "year": 2026,
+  "type": "macOS app, open source",
+  "role": "Product / macOS app / Server / Website",
+  "url": "https://awan.ffdev.studio/",
+  "statement": "A little cloud that lives in your Mac’s notch. Hold two keys, ask out loud, and it looks at your screen and points at the answer.",
+  "about": [
+   "Awan is a native macOS app that sits in the notch. Hold Control and Option and talk: it sees the screen only while the keys are down, answers in a natural voice, and flies a small cursor across the screen to point at the button, cell or word it means.",
+   "Longer jobs go to agents — your Awans — that research, write and work in the background, then tap you when they are done. Dictation types into any text field.",
+   "It is the studio’s own product and fully open source under the MIT licence: the Mac app, the server behind it and its website are public on GitHub, so anyone can read how it works, build it themselves or send a fix."
+  ],
+  "features": [
+   "open-source",
+   "ai",
+   "macos"
+  ],
+  "stack": [
+   "swift",
+   "node",
+   "sqlite",
+   "vite"
+  ]
+ },
+ {
+  "slug": "ff-member",
+  "title": "FF Member",
+  "client": "FF Dev Studio",
+  "zone": "study",
+  "year": 2026,
+  "type": "Membership one-pager, study",
+  "role": "Art direction / WebGL / Motion",
+  "url": "https://ff-member.pages.dev/",
+  "reference": "moto-card.com",
+  "statement": "The studio’s care plans sold as a membership, with a black member card issued on every visit.",
+  "about": [
+   "Care, Maintain and Evolve, presented the way a premium card is. Every load opens on the member card being issued: it polishes in the dark while a counter runs through what membership covers, then flies onto a chrome plinth in front of a lit rock wall.",
+   "A pinned WebGL globe, the card turning inside a tube of the studio’s own work and plan figures that scrub past on scroll carry the rest. The motion was measured against a luxury card site in the same genre; every word, image and line of code is the studio’s own, and the globe is NASA imagery."
+  ],
+  "features": [
+   "webgl",
+   "3d",
+   "motion"
+  ],
+  "stack": [
+   "vite",
+   "three",
+   "gsap",
+   "lenis"
+  ]
+ },
+ {
+  "slug": "ff-search",
+  "title": "FF Search",
+  "client": "FF Dev Studio",
+  "zone": "study",
+  "year": 2026,
+  "type": "Executive search site, recreation",
+  "role": "Frontend / Motion / Measurement",
+  "url": "https://ff-search-b4q.pages.dev/",
+  "reference": "aspensearch.com",
+  "statement": "A search firm’s site rebuilt to the pixel, then re-cast in the studio’s own words.",
+  "about": [
+   "An executive-search website measured from the reference rather than eyeballed: type scale, spacing rhythm and every easing curve extracted from the live page, then rebuilt in our own code.",
+   "The copy was rewritten for FF throughout, and the team and testimonials are fictional — the point of the study was the craft of the page, not borrowing anyone’s credentials."
+  ],
+  "features": [
+   "website",
+   "motion",
+   "measurement"
+  ],
+  "stack": [
+   "vite",
+   "gsap"
+  ]
+ },
+ {
+  "slug": "indahnya",
+  "title": "Indahnya",
+  "client": "FF Dev Studio",
+  "zone": "product",
+  "year": 2026,
+  "type": "Majlis photo platform",
+  "role": "Product / Design / Full stack / Motion",
+  "url": "https://indahnya-86v.pages.dev/",
+  "statement": "Every photo from a majlis in one gallery. Guests scan the QR on the table, snap and upload: no app, no login.",
+  "about": [
+   "Indahnya is the studio’s own product for Malaysian weddings, aqiqah and family majlis. One QR on each table sends guests to the gallery from their phone browser, every photo lands at its original quality, and the slideshow plays live on the dewan’s TV. The same link carries the e-kad, RSVP, a seat finder on the hall’s floor plan and written or voice ucapan.",
+   "The landing tells it in one scroll: the table card’s QR breaks into its modules, they settle into a mosaic in the colours of the guests’ photos, and the real gallery resolves. Bahasa Malaysia first, with English, priced once per majlis rather than by subscription. It is open as a preview for now, with a sample majlis you can click through end to end."
+  ],
+  "features": [
+   "platform",
+   "motion",
+   "website"
+  ],
+  "stack": [
+   "nuxt",
+   "postgres",
+   "gsap",
+   "lenis"
+  ]
+ },
+ {
+  "slug": "ff-shoots",
+  "title": "FF Shoots",
+  "client": "FF Dev Studio",
+  "zone": "study",
+  "year": 2026,
+  "type": "WebGL photography portfolio, recreation",
+  "role": "WebGL / Motion / Gesture control",
+  "url": "https://ff-shoots.pages.dev/",
+  "reference": "remyshoots.co.za",
+  "statement": "A photographer’s slider rebuilt one to one, fisheye lens and hand gestures included.",
+  "about": [
+   "A WebGL image slider with a fisheye lens pass, rebuilt from scratch in React Three Fiber and matched frame for frame against the original.",
+   "The camera gesture mode runs MediaPipe hand tracking in the browser, so a visitor can swipe through the work without touching anything."
+  ],
+  "features": [
+   "webgl",
+   "motion",
+   "ai",
+   "gesture"
+  ],
+  "stack": [
+   "next",
+   "three",
+   "gsap"
+  ]
+ },
+ {
+  "slug": "ff-stanzza",
+  "title": "FF Stanzza",
+  "client": "FF Dev Studio",
+  "zone": "study",
+  "year": 2026,
+  "type": "Design studio landing page, recreation",
+  "role": "Frontend / Motion / Webflow interactions",
+  "url": "https://ff-stanzza.pages.dev/",
+  "reference": "stanzza.design",
+  "statement": "A Webflow awards page rebuilt outside Webflow, every scroll timeline and dropdown intact.",
+  "about": [
+   "Webflow’s interaction engine was read out of the page bundle — easing table, tween types, breakpoints — and re-implemented as a small runner of our own.",
+   "Every pinned scrub, text split and dropdown behaves as it did on the reference, compared side by side in a real browser rather than in screenshots."
+  ],
+  "features": [
+   "website",
+   "motion",
+   "interaction"
+  ],
+  "stack": [
+   "vite",
+   "gsap",
+   "lenis"
+  ]
+ },
+ {
+  "slug": "ff-frames",
+  "title": "FF Frames",
+  "client": "FF Dev Studio",
+  "zone": "study",
+  "year": 2026,
+  "type": "Photography portfolio, recreation",
+  "role": "Frontend / Motion / Astro",
+  "url": "https://ff-frames.pages.dev/",
+  "reference": "ethanwong.photography",
+  "statement": "Twenty-four routes of a photographer’s site, rebuilt one to one, pricing calculator included.",
+  "about": [
+   "A full photography portfolio — galleries, journal, services and a working package calculator — rebuilt route by route in Astro.",
+   "Static by default, animated only where the reference was, and fast enough to feel like a single page."
+  ],
+  "features": [
+   "website",
+   "motion",
+   "photography"
+  ],
+  "stack": [
+   "astro",
+   "gsap",
+   "lenis"
+  ]
+ },
+ {
+  "slug": "sunlight-supplies",
+  "title": "Sunlight Supplies",
+  "client": "Sunlight Supplies",
+  "zone": "client",
+  "year": 2026,
+  "type": "Industrial marketing site",
+  "role": "Art direction / Frontend / 3D",
+  "url": "https://ff-sunlight.pages.dev/",
+  "statement": "Pallet racking and display fixtures, rendered in three.js rather than photographed.",
+  "about": [
+   "Racking is hard to photograph well and easy to model precisely, so the site shows the product as live 3D: beams, frames and bays assembled on scroll.",
+   "The result explains load, height and configuration faster than a catalogue page ever did."
+  ],
+  "features": [
+   "website",
+   "3d",
+   "brand"
+  ],
+  "stack": [
+   "next",
+   "three"
+  ]
+ },
+ {
+  "slug": "lewix-ai",
+  "title": "LEWIX AI",
+  "client": "LEWIX AI",
+  "zone": "product",
+  "year": 2026,
+  "type": "Company website",
+  "role": "Art direction / Frontend / WebGL",
+  "url": "https://lewix.ai/",
+  "statement": "A one-page site carried by a single generative environment instead of a stack of sections.",
+  "about": [
+   "One WebGL environment runs the whole page. Scrolling moves the camera through it, and every section is a place in that world rather than a new block of layout.",
+   "The effect is a company that reads as technically serious before a single capability is listed."
+  ],
+  "features": [
+   "website",
+   "webgl",
+   "motion"
+  ],
+  "stack": [
+   "next",
+   "three",
+   "gsap"
+  ]
+ },
+ {
+  "slug": "smoothsail",
+  "title": "SmoothSail",
+  "client": "LEWIX AI",
+  "zone": "product",
+  "year": 2026,
+  "type": "Product site & store builder",
+  "role": "Product design / Frontend / Architecture",
+  "url": "https://smoothsail.my/",
+  "statement": "A store builder for Malaysian sellers, sold on real interface states rather than a feature list.",
+  "about": [
+   "A multi-tenant store builder: storefronts, checkout, shared stock across channels and an AI studio that proposes changes a seller can apply or undo.",
+   "The marketing site shows the real product in its real states — no mock dashboards drawn for the occasion."
+  ],
+  "features": [
+   "platform",
+   "e-commerce",
+   "website"
+  ],
+  "stack": [
+   "next",
+   "postgres"
+  ]
+ },
+ {
+  "slug": "big-brain-furniture",
+  "title": "Big Brain Furniture",
+  "client": "TGS Furnishings",
+  "zone": "client",
+  "year": 2026,
+  "type": "Retail website",
+  "role": "Art direction / Design system / Frontend",
+  "url": "https://bbf.lewix.ai/",
+  "statement": "Reclaimed teak, presented as a catalogue that treats the material as the whole design.",
+  "about": [
+   "Warm grounds, generous crops and a catalogue structure that lets the grain of each piece do the selling.",
+   "Built on a small design system so the team can add ranges without the site drifting."
+  ],
+  "features": [
+   "website",
+   "e-commerce",
+   "brand"
+  ],
+  "stack": [
+   "next"
+  ]
+ },
+ {
+  "slug": "ascend-peptides",
+  "title": "Ascend Peptides",
+  "client": "Ascend Peptides",
+  "zone": "client",
+  "year": 2026,
+  "type": "E-commerce",
+  "role": "Design / Frontend / Commerce / SEO",
+  "url": "https://ascendpeptides.my/",
+  "statement": "A research catalogue where the product needs precision, not persuasion.",
+  "about": [
+   "A commerce site built around specification: purity, form, storage and documentation first, price second.",
+   "Structured data and clean page architecture carry it in search without a single inflated claim."
+  ],
+  "features": [
+   "e-commerce",
+   "website",
+   "seo"
+  ],
+  "stack": [
+   "next",
+   "postgres"
+  ]
+ },
+ {
+  "slug": "lewix-my",
+  "title": "Lewix",
+  "client": "LEWIX AI",
+  "zone": "product",
+  "year": 2026,
+  "type": "Company website",
+  "role": "Art direction / Design / Frontend / Motion",
+  "url": "https://lewix.my/",
+  "statement": "The front door of an AI product studio, built to read as capable before a feature is described.",
+  "about": [
+   "Motion does the introducing: each product arrives with its own small system of movement, so the studio’s range shows before it is explained.",
+   "Server-rendered, self-hosted and quick on a phone."
+  ],
+  "features": [
+   "website",
+   "motion",
+   "brand"
+  ],
+  "stack": [
+   "next",
+   "gsap"
+  ]
+ },
+ {
+  "slug": "meridian",
+  "title": "Meridian",
+  "client": "FF Dev Studio",
+  "zone": "study",
+  "year": 2026,
+  "type": "WebGL portfolio engine",
+  "role": "WebGL / Interaction engineering / Motion",
+  "url": "https://ff-meridian.pages.dev/",
+  "reference": "aristidebenoist.com",
+  "statement": "The engine ffdev.studio ran on before this one, rebuilt from nothing. No code, no assets and no copy taken from it.",
+  "about": [
+   "A clean-room WebGL portfolio engine: one build on desktop and phone, sized to the scarce axis, with a flat fallback when WebGL is unavailable.",
+   "It ran the FF site until September 2026."
+  ],
+  "features": [
+   "webgl",
+   "interaction",
+   "motion"
+  ],
+  "stack": [
+   "vite",
+   "three"
+  ]
+ },
+ {
+  "slug": "big-brain-furniture-alt",
+  "title": "Big Brain, second direction",
+  "client": "TGS Furnishings",
+  "zone": "client",
+  "year": 2026,
+  "type": "Retail site, alternate structure",
+  "role": "Art direction / Information architecture",
+  "url": "https://ff-bbf-alt.pages.dev/",
+  "statement": "The same brief structured a second way, so the choice could be made by looking, not arguing.",
+  "about": [
+   "Rather than debate two directions in a meeting, both were built. The client chose with the real thing open in two tabs.",
+   "Cheaper than it sounds when the design system is shared."
+  ],
+  "features": [
+   "website",
+   "strategy"
+  ],
+  "stack": [
+   "next"
+  ]
+ },
+ {
+  "slug": "obys-translation",
+  "title": "Obys translation",
+  "client": "FF Dev Studio",
+  "zone": "study",
+  "year": 2026,
+  "type": "Interaction study",
+  "role": "Interaction engineering / Measurement",
+  "url": "https://ff-concepts.pages.dev/concepts/02/",
+  "reference": "obys.agency",
+  "statement": "Three layout modes, a flip tumble between them, and a page that never scrolls.",
+  "about": [
+   "A study in FLIP transitions: the same set of cards re-flows between grid, list and stack, each element tumbling from where it was to where it lands.",
+   "Measured across every state, not just the one on the first screen."
+  ],
+  "features": [
+   "interaction",
+   "motion"
+  ],
+  "stack": [
+   "vite",
+   "gsap"
+  ]
+ },
+ {
+  "slug": "basement-translation",
+  "title": "Basement translation",
+  "client": "FF Dev Studio",
+  "zone": "study",
+  "year": 2026,
+  "type": "Interaction study, unfinished",
+  "role": "Interaction engineering / Type system",
+  "url": "https://ff-concepts.pages.dev/concepts/01/",
+  "reference": "basement.studio",
+  "statement": "Pure black, one weight throughout. Unfinished, and shown that way rather than dressed up.",
+  "about": [
+   "A type-system study: one weight, one colour, all hierarchy from size and spacing.",
+   "Left unfinished on purpose — the parts that work are the point, and the parts that do not are labelled."
+  ],
+  "features": [
+   "interaction",
+   "type"
+  ],
+  "stack": [
+   "vite"
+  ]
+ }
+]

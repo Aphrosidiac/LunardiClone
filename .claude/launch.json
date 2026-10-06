@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "ff-desk", "runtimeExecutable": "npm", "runtimeArgs": ["--prefix", "C:/Dev/LunardiClone", "run", "dev"], "port": 3180 }
+  ]
+}

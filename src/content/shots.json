@@ -1,0 +1,2328 @@
+{
+ "ff-search": [
+  {
+   "src": "/media/shots/ff-search/s-hero.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The hero: the FF mark over a halftone field, the studio line in a mint panel",
+   "page": "ff-search-b4q.pages.dev",
+   "row": "cover",
+   "lqip": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAQBACdASoYAA4APtFWpEuoJKOhsAgBABoJQAAknc0Sx2Zr5CWTxpk9uAD+/mzbHlVrRp5cFfmd4gzRjr1hEE89dksePtjbRDA8iNjKroPzp6OkJxKYUcwJ9cUvh5vzxBfPt2XrZCI/4XfEv5Ih9cv5m+q7jEsd/7JZCXKnHk64fD039F5JVdS/7zQZm4AA"
+  },
+  {
+   "src": "/media/shots/ff-search/s-built.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "BUILT PROPERLY. set large in the grid",
+   "page": "ff-search-b4q.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAAAQBACdASoYAA4APtFWo0uoJKMhsAgBABoJaQAAW3luJKB9iU15vOqyAAD+yf6gVvS4znFACTo2Fz+jj/SI9WwYNlUiqzHrt9sveL1KfJZftl3xfbvm2XR4AR9ZGt1w0auWmkSoC3KBTnmS++GqmL04CInyyx7K26Lr2tNUbPe639aTpJ9uiQeTgn3AAA=="
+  },
+  {
+   "src": "/media/shots/ff-search/s-stats.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "The numbers: RM1K–5K on mint, 60+ builds on black",
+   "page": "ff-search-b4q.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAABQBACdASoYAA4APtFWpEuoJKOhsAgBABoJYgC7AB3+w0GDC+kv2w5fzcjAAP70BsVPT6c5aD037ZQALHMTV3IaLkW1w7/CKabQJuftsDZQ1qgmfkrPSRsbvJUH2+Dd2/493mRZP2hACO+2v2hEesJWoZSSVVD1CGwkhvyN0ck1SYDpjgBc1OjUnCOUAAAA"
+  },
+  {
+   "src": "/media/shots/ff-search/s-services.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "Services on black, each with a wireframe globe",
+   "page": "ff-search-b4q.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQBACdASoYAA4APtFUo0uoJKMhsAgBABoJaQAAW79o8A4tqffCazmAAAD+mmg7QIBq1MVUSKWcYfh/XEFtfa7cOVx3f3JcoAm922dGVHzwj7GQjDjRn6CLebtvkEf2J3HhmTzOUeZU3GajF29s61/PPzrH/MipdAAAAA=="
+  },
+  {
+   "src": "/media/shots/ff-search/s-m-built.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: BUILT PROPERLY.",
+   "page": "ff-search-b4q.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRgoBAABXRUJQVlA4IP4AAAAwBgCdASoYACYAPtFgpE+oJSMiJWzJABoJZwDIIdwLgssioj6FD+KG1HLevgEuL8BfRPPoosj/q8QgAP5PJN+0eszq/6dm9Zhig2+dNwXRfLeg8KpVajUBpSdMhh0BzDfKib7wenx2bzdV4jAtbKba6Dvs//ACiaMYHweEh+X9FxLOagrE7VqiZwQo/dPW+gcU08Ve7/rI4n5GthaFU+eefsGpKBjVSkiFlkqTrairHnCmVp1sWvuKFK/Gd1dnkfNLXD7SDB61dQGdoHiXFMQyvd5nyAZZj0manCzHjqsT5OV6AB3E96juYINA+ya+Y7aCQOijRGByzSqBExAAAA=="
+  },
+  {
+   "src": "/media/shots/ff-search/s-m-stats.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the numbers",
+   "page": "ff-search-b4q.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRjoBAABXRUJQVlA4IC4BAADQBgCdASoYACYAPtFYp00oJSOiKqoBABoJYwDKB2zZEDsjDAlQPcyTO7j8L0jWzb3e9SFCw4c9GJ9k4d1E0AAA/k0ZtXmJE8zN5YZHrpdhxhz4VqNHm57KTbAbifB6ezVXsB8fikbXRo70qOgMiGq/qCjGoBzDMFOkkctGr9sJAkS4G26b9B0fYLS9Tw86x5J9PLArxhQMYyZxTALG9QCKgBP3EN9vTdJoacByMxvZlgbg4FgdohmFbkRV5cY3ftIyQKv9VPLbTwMjmjkAv7HChpi42KdAV66h8w72jVYfpm6ZrNmvdQryETObMWnwxdCmBGqYBx3s1/UgTUBFcqmtIFoTQnD80Ed92k7/iJdcNMAbweD18/1piwx0boOF+JFvOY6AKXCSnLAeYAAAAA=="
+  },
+  {
+   "src": "/media/shots/ff-search/s-m-team.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: a team portrait",
+   "page": "ff-search-b4q.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRmABAABXRUJQVlA4IFQBAADQBwCdASoYACYAPtFaokyoJSMiKqwBABoJQBh5qbE/y7jfgaQJoYOOHcDTPnX8Z4HX4o/eETby0CxEPbU1KckudXL3YSIfgAD9v8Fe7iRz4xSRrnas5mNO0Hx9W4wTJQp+17xjIMkrCJsda2mNNl83+7XFbtfdLZppLBh1aJmhEEY7AIKpKuDUUN/pvv00iOW/fdY/VbRTpLN43axyAEkJzC63tF0ue9xQQZ2AFlWopsWLeZZKbPfjExusf8NqMiRSGs7FdFf3qiXgpGGOG6WS3at0LHpvjwORtixp6ISPX3j62NAMS0f4JAQeEhES15/diVnBBCTqFAAhu91rhRIQDw4zbAp7jgYcIpjKE7t5zlTcZN70GU+8/Juj2BM92R8wYsEBgxNhgc3bXQZg9MovkDTZMFsC4EJ96OWYOPltQ7jepKZ3d1b/6NmASzRfDuoPAAAA"
+  },
+  {
+   "src": "/media/shots/ff-search/s-dark.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The hero in the dark theme",
+   "page": "ff-search-b4q.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADwAwCdASoYAA4APtFUpEuoJKOhsAgBABoJQAAkmZFLCryDyyaIxjP0AP77oCRpDYKwpkxX5I0Z4/3b6q87a7y58HVHlPWjWMn+vtdh3o3tipBEX/ygz5JHDtAH+qdT1SQ20UEd9B7qVHduSTF2c7vC9QTK6oJS59xIp5BzjQPYd8RpkooLv3/m79eCgAAA"
+  },
+  {
+   "src": "/media/shots/ff-search/s-team2.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The team: black-and-white portraits under role tags",
+   "page": "ff-search-b4q.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAACwBACdASoYAA4APtFUo0uoJKMhsAgBABoJZQDE2YvC3HL05Ru20gG6AXycAomAAP7gAkskhS8xse4Y86M0x1JaXkYFzob9otKtVgP0fXP7zzycQBbNXMwkbQ872X7szLoVTG4mbPPKdI/QZz/B10+y3BNnzt/ys8g7pJdi8Uh0fmmBxinEel+L0Eirlpf+9La1db1erXYIrVsXYgz2uojS9J7HxyHyIYQGG0fIMnDlMJrcI9vUu6rKAAA="
+  },
+  {
+   "src": "/media/shots/ff-search/s-clients.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "The Clients index",
+   "page": "ff-search-b4q.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADQAwCdASoYAA4APtFWo0uoJKMhsAgBABoJaQAD5VoP6O9lvf3j/5gA/tb82jWqZsjPuWbFbIkxPLi4YPci1oG1GreeMouwn2Qp9ZXV8Gdq9vU7ukE7t5c4PJ2dpz+ttL9BdXY0lQTzkB5v65oObUQ9/yUq+e3X0u6CqksetAW8Jq1sAAA="
+  },
+  {
+   "src": "/media/shots/ff-search/s-footer.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "The footer: the //FF Dev Studio lockup",
+   "page": "ff-search-b4q.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABQBACdASoYAA4APtFUo0uoJKMhsAgBABoJQBkW+ABmfoCN63k7e/3JPrFgAP7wrDFrhTgJsUYlRFmRoE95qOv/VpMo3mqnK1rl78R1oY47X6zYabNkR34gHv1+RNalR2HbH76foGghjpMvVJxgJxIwhql0KIFwXSs/3AAA"
+  },
+  {
+   "src": "/media/shots/ff-search/s-cta.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "LET’S START A CONVERSATION in knocked-out type over the halftone",
+   "page": "ff-search-b4q.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJZQAAXKa4d9kxdZQuzqgAAOIHFaiXHDq0/3g1Rh5XH67D8DXBSftNWbIfVXhLN0hFq8zscJ207x5SZwAoPrDd36QkkOLcf69fXHgvU5kNaknanGpVs7lOnfnA1MsD8RozaCg24kBg3sBnmie8w93YY4FrjAAA"
+  }
+ ],
+ "ff-stanzza": [
+  {
+   "src": "/media/shots/ff-stanzza/s-hero.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The hero: a warm living room under the demo notice",
+   "page": "ff-stanzza.pages.dev",
+   "row": "cover",
+   "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwBACdASoYAA4APtFUo0uoJKMhsAgBABoJZQCdABhwwaNwtAfHVh1E7gAA/ukD0NMHa4opW/azGY1ndYqXomsoLVQ1wGWQ94hGS5TvQuz/jK1AZsC8+j2A20XjpcfmAeOG+X3CKkLudJyzvKinzQDA14bQs4qgAAA="
+  },
+  {
+   "src": "/media/shots/ff-stanzza/s-pau.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Pau Claris Apartment on olive green, with the project’s facts",
+   "page": "ff-stanzza.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAADQAwCdASoYAA4APtFUo0uoJKMhsAgBABoJQBdgAxmqEdka7FYrCAAA9XlD2hShslqMRhhs9Hh1wzyylDQ0DOCfLmXGM+luLYVK+zEH634Wi3fvD3JI1ZUfrt0dygM1bg+qV0l6KAmZTkY3jk+QwcQzZ2XagVqCLemshVvQ0G9EAA3Aemx6s6SN2paAAA=="
+  },
+  {
+   "src": "/media/shots/ff-stanzza/s-navy.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Architectural thinking. Design sensibility. Premium delivery. — line drawings on navy",
+   "page": "ff-stanzza.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwAwCdASoYAA4APtFWo0uoJKMhsAgBABoJYwCdAC0Hmq4gAP7vx+fbfyP/lf5qluHkuEUtjccb5NlopcMYgN4bge7kTJiCSfB6fGC8EsAAAA=="
+  },
+  {
+   "src": "/media/shots/ff-stanzza/s-m-hero.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the hero",
+   "page": "ff-stanzza.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAABQBgCdASoYACYAPtFcpE4oJSMiKrgMAQAaCWMAvVghp5aW1eJIyueMADz3Ns0zlmxE7yrDBSz6IxyiGAD+5ogi1+VZ8eweL3gHDiPu4NxABPPW2xkjv+64Q9iGpNmzbhIHje6XenYF9cfPBebhCIs9UyulsbaE4bnh+842ySI6V+AP+by61xXudW0EuMH98AyNs6osADPq70X9fNV8ZZ3zL8hCcQkz1LV25zxTv1QJpBb0LMG8xsvP/RAUSpYELZEgDtisOEfSfCtdOKEGnZtUewqlH1rHOB6VEsyAKULbVvuZ8Kwpf644gAA="
+  },
+  {
+   "src": "/media/shots/ff-stanzza/s-m-pau.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: Pau Claris on green",
+   "page": "ff-stanzza.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRh4BAABXRUJQVlA4IBIBAABwBgCdASoYACYAPtFepE6oJSMiKrgKAQAaCUAX5zGlWcbaVi6BEvPOjM9MEoR+vqJ64HAHrZvZFrk+LAAA6FurePX6Q3mWmIsOoJaLZ2Rj+V3gE3iYHuQna9UJgcHRgCZqhilKgHsMIjb4wYOg7ho4v9GSW9VcIfK7i5AriI/xtVYpRvpJgblPtzX7A+yNfw3XezQVZJm8kffMRAVIWroes/llgysuo2JlItC0M7Ps0xBsfRGI1C1ihMPEuoITRb2mLxRn2nyKvPKFzSMC/2OAO4ftFcD5TaspzK7tbR6LJzCi0TpHMMrL4RQOlva+Ad6mnBV4Aa52kL4VKPvoS74VDhis3JyHsBUu9S1m86hssAAA"
+  },
+  {
+   "src": "/media/shots/ff-stanzza/s-m-navy.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: architectural thinking on navy",
+   "page": "ff-stanzza.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAAAwBQCdASoYACYAPtFYo0uoJSMhsBqqqQAaCWcAtZweOsU/imP6ZBToJffzoAQdQ4CgAAD+8PztJdvVRVZD9eUC7iChjqYY3SI5m5n2FaR/io4xTfmahwLMmXFCYEnyCmye8zQfJPJ+2kS3BLrcE4Q9XeXhdl10RRq2w3gi7msXCG3gEymuo5zUTCNyYEcIx4B0IY6eK82iAAAA"
+  },
+  {
+   "src": "/media/shots/ff-stanzza/s-cards.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Architecture and Design cards passing on the horizontal track",
+   "page": "ff-stanzza.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABQBACdASoYAA4APtFUpEuoJKOhsAgBABoJZQC/OCc9eafM8r95yqKDvtyAAPl/i8oXzrBC35Ug/0R40mxUBAjcSeJUaVIgMZF6LfZn7NM3VpaZ6GRmJam77SO5AitedBQzsf6B/MDVDAi5Fr9TFf50yNynWPrq3pLNja2OJszDEt+O3cUHhzjuLy+StN3XbFCEf40oAAA="
+  },
+  {
+   "src": "/media/shots/ff-stanzza/s-blog.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "The blog: Barcelona Pavilion and L’Atelier",
+   "page": "ff-stanzza.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJZQC/OBRvgHCSF9HdB/AAAP7G41+RoWonmE1vn57FqpsYeAkaCuKUxLfKT7t4ZwnVjm6W/29mVnre+cOxR4N4Fq6jzZ+X59TYUPwoxuo2nhOm9kohBL/sp0d+UYSyk9zEg9cx3mgHAAAA"
+  },
+  {
+   "src": "/media/shots/ff-stanzza/s-about2.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "About us: 182 projects worldwide",
+   "page": "ff-stanzza.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwAwCdASoYAA4APtFWo0uoJKMhsAgBABoJZwABHxuB7INVdkR6gAD+/jBTR8VvSxWfc57HTlSb/ReN4tn1j8Ib8EJVc2M5CGdFQj0K9js70FetJtcv+X1kwAA="
+  },
+  {
+   "src": "/media/shots/ff-stanzza/s-about.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "About us: 10 years in Spain over the Sagrada Família",
+   "page": "ff-stanzza.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACQAwCdASoYAA4APtFUpEuoJKOhsAgBABoJZwDCgCIjMznXfZoAAP7wFtPkEfJpkrRMepIGLR71mRYyzZ7sr20muQbdebFU43ZQzYPLBRCppxQAAAA="
+  },
+  {
+   "src": "/media/shots/ff-stanzza/s-m-lead.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the responsible lead",
+   "page": "ff-stanzza.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRkYBAABXRUJQVlA4IDoBAACQBwCdASoYACYAPtFgqlAoJSOipWmZABoJZQDInbNeCvhwisuvjAySb0K13MYI+tmPvng0l9EJVNnU1NznflSHc+kwbgAA9r0Urm9BPTfxamoqJodzuP5niaylFFy1dKk7fyPZG3bhyn3QIIqNqoGwZA1a2FYwTBnuWwkQsZtSzNXlaCGc7EfcVmW+sqXL8s+jhioKfpfIv5xXQ64mjUsshxzeVcSsys++AHllGVrqAEhVPjXPHeZYbt0kfMdz7u+h6u4nZcz6jOaD2SJMqkdy2i+5T/ewa1YP286U9rgozwtuDJz5N+9t9nh9dRU8fVuuNMBKLoO/FqA3DCj77tPry7BxfEZCH7pGUn+c3KJhMINB6u77envUDNZ9TBOtqE2ncu+t1DIckCOKluKApsc34/nLtMcCxwAAAA=="
+  },
+  {
+   "src": "/media/shots/ff-stanzza/s-m-design.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the Design card",
+   "page": "ff-stanzza.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAACwBQCdASoYACYAPs1Wo0unpKMhsBVdUPAZiWMAvzgubcktktDHPzm49blYrcnOoNuxNGtGJzgA/vhUyyd88jE0gc4GyQUAgJrZQJ+PK0v/1jv8s5SaBwOrw/LsW4pCKSdLz3Prjfykf8EV5DxBzan/VaWz4gAmPsM1GgI/gSS8dcZPA6tEf/GNjTorQdU4Yt/h7KrxW+TYvIWIBfhMskB0WfzI7s39EuteSNrNx70ip4A0MJktNEQ5OAAAAA=="
+  },
+  {
+   "src": "/media/shots/ff-stanzza/s-m-about.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: 10 years in Spain",
+   "page": "ff-stanzza.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAADQBQCdASoYACYAPslUpUunpKOhsBVdUPAZCWcAzFguGoJW50Ulti6mrDHWnFYzOYGN7p0QzN3wAP71Ij27eDWsN3LTSRK+l/snrqFnQUBa+28uI4t7o+m1Tjn1DNCpwFc2gVs3W95c5/RIL1oZcFW6rWIpAS4OhTizRuv5NnX0AjYC+Y3ULwQ3eEHh7qo7IiCNQh1xBvMh2QhfKAeIn3iqZIaWAAAA"
+  },
+  {
+   "src": "/media/shots/ff-stanzza/s-footer.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The footer’s pencil drawing of a pavilion",
+   "page": "ff-stanzza.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQBACdASoYAA4APtFUo0uoJKMhsAgBABoJZwDCgCHw48dTk8rF9IxYAAD+7Xq7dqaYfVHOdIo2og0ynntEz4erFoh738yrFejLcAeSbdZVPA4cAAA="
+  }
+ ],
+ "sunlight-supplies": [
+  {
+   "src": "/media/shots/sunlight-supplies/s-hero.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Racking, from the site survey up — the hero over a live 3D rack",
+   "page": "ff-sunlight.pages.dev",
+   "row": "cover",
+   "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQBACdASoYAA4APtFYpEwoJSOiMAgBABoJZQCAAAiptSSfc//QOzCIAAD+85beAPzYDOtsAYJnhpj/BJCB96aRO3iF7s271dkI85AvzpztFG0iz5GmHGrHezqvWMS4UhY6+l6FXikpRurPqBZwKVutvRLE3ghAAAA="
+  },
+  {
+   "src": "/media/shots/sunlight-supplies/s-stage-b.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Six stages: beams hung",
+   "page": "ff-sunlight.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAwCdASoYAA4APtFapEwoJSOiMAgBABoJZwAAWpUeRqFj7v8qtgAA/vUeOnY2YIWig4oOjMo9fXgm2EC0tS2YoyQ5SgfztNvdLSjyw8I6VyUI4alxXBC8iuECgx3psjRfl9AAAAA="
+  },
+  {
+   "src": "/media/shots/sunlight-supplies/s-stage-a.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "Six stages: the frames standing",
+   "page": "ff-sunlight.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAwCdASoYAA4APtFWo0uoJKMhsAgBABoJZwAAes0EjAAAAP7xQST+iwjvUAonkbEURD3Ktq5z3MXgqs2BfuGglDNFEnr5TdvRxtj7uAz8lshAAZ3H2wwaV/siUkm5L6hgp7wPYAA="
+  },
+  {
+   "src": "/media/shots/sunlight-supplies/s-stage-c.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "Six stages: loaded out",
+   "page": "ff-sunlight.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAwCdASoYAA4APtFipk0oJiOiMAgBABoJZwAAXdN/JuT0rxjfevIAAP71Hjp7zC5/usOpJ50OA+htH1sde5/rsIQ03PSOFmzmpCux84qjhXBC8itu+S42WiWMAAAA"
+  },
+  {
+   "src": "/media/shots/sunlight-supplies/s-m-hero.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the hero",
+   "page": "ff-sunlight.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAACwBgCdASoYACYAPtFcpEyoJSOiMBqoAQAaCUAW2WYRI32HuCjlKW76MMwuZ1d8qzcGEq1A8+1zwb7AUkoQAAD+9iKfBU+ccL6PMoBwZLnDNKl+hoUsG9k4aIzvZihXlqPaja1JRRPAIj5tbbUfZJzo5ClgR+F8Cs4qT3PsZXYWu0g7jkadH5EJ78QjR1sgFrxcqF0TAv4jgsIvQ/Ag/I7Tmn9HhpOZ/8HGOoAOhwF/1OQf0WOeR1tKIyQfAIfbddWNJir3mCoLw/1/hNWMGcorP2HpEz3lkJHMjMImygih+uApm8EbUq9EroasC/dV0vAAAA=="
+  },
+  {
+   "src": "/media/shots/sunlight-supplies/s-m-stage.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: a rack stage",
+   "page": "ff-sunlight.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAADwBACdASoYACYAPtFWo0yoJKMiMBqoAQAaCWcAzuwWHmJrDv67W4CMWM7k25ufwsAA/vYkWaKEzdvQJtgoiRMvlsG17PgDhe7ugPnCYcRFu30Z6330GMra01VIO3y/afGQ+R+XwEno6AOvGyEpby6Zml/Ef7QJ9bvXrGt0k8KGwXybtJymstdrz6gdmEgM53s5vAAA"
+  },
+  {
+   "src": "/media/shots/sunlight-supplies/s-m-installed.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: installed work",
+   "page": "ff-sunlight.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRnYBAABXRUJQVlA4IGoBAABwCACdASoYACYAPtFeqE8oJKOiJWsxABoJYgCxHxHBqQNns7tgjTsiB2vlnXD4TCDUDr5IEgmdM8wu5ZnhzwOTEQnwy48Je9apuhQAAP7WJcuD2XqIKtCNveqArOjEquteWTOamL+5NqbsyMR2Mv7gd1RmJOos/NuT1ZdBEUHDlZR1vo5G/LD83J5MJsjW0MFgavE1ZJyPw2JDnWcqSEe43lkF478QKnBh+XhaZJM6Au/CCcZs6bbTbjQV3QYORAP4YiLPVveTZ5LizUHuXZOkWApvFVta3YQCr/G9ruLAvJWUIjBj9G5O2fYswXcgN1P/cOOeVL2cAFeVAsoWczfidzb/HZxUl89LqfvnRg5I+PKfPpuUV+BrPXdXJs8A36QC2JE69GIYaPoy7CGMa+1Qpf5zd/MdLTAtEJtQ87InrUUAln077ED1XtrccG47S2yvtoOyp8MeeV87m3cBnu/tznwimTpPYwAAAA=="
+  },
+  {
+   "src": "/media/shots/sunlight-supplies/s-systems.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Eighteen systems, with installed photographs",
+   "page": "ff-sunlight.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADwAwCdASoYAA4APtFWo0uoJKMhsAgBABoJQBgfeABgWZ6MA+teQqOgAP7zyPD2z70Tlqjs+9ud1Dxtuwb/AVOwMM7bZopf5oxviZQAX63uWeTave3LnOQMQdnITXtYEIabxsQEbHUrCO+8N/0py7fYlgVuWYrkC9YDN2753dJbjLSIhcYi6qlJX0+p0gAA"
+  },
+  {
+   "src": "/media/shots/sunlight-supplies/s-installed.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Racking that is already standing in Johor",
+   "page": "ff-sunlight.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAACwBACdASoYAA4APtFUo0uoJKMhsAgBABoJYwC7IEzRABsE/lATPaXIz00MwxAAAP7zyJyhDAfmMD2xQn90Jr3g2e2z2u887d526BhIzbIWTJRfLmuImolUJwoVrXfXBtzJYMqE6lvPXKu/VDLTckdSeIkPhGPJUdsuT2dsKjdqiD38Iin4/aD1hf9p83+urjNMGUZawJdPJydrFxrpw4AA"
+  },
+  {
+   "src": "/media/shots/sunlight-supplies/s-retail.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The other half of the business: shop-floor fixtures",
+   "page": "ff-sunlight.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACQAwCdASoYAA4APtFUo0uoJKMhsAgBABoJZwAAXK/t6aHIA1QQAP7zw/YVODaMvIAMSXPph8sv4UkL/aYbVRaSKBll7ty6k7gFJID6ml46KVm+9OCdgKnD7WAAAA=="
+  },
+  {
+   "src": "/media/shots/sunlight-supplies/s-counters.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Three counters in Johor Bahru",
+   "page": "ff-sunlight.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAwCdASoYAA4APtFWpUwoJKOiMAgBABoJYwCdACKJQ/AJ6CwnMGGAAP7zyIBsuaOMOvbXsKvLz5M1t8/v++5wsGmb6TgB0wz5TQe1M/tPuvriUHI9++yitHRH0fnUyHII0gWYsTTn10pnrRo8CxMjm0GZx8UgAAA="
+  }
+ ],
+ "lewix-ai": [
+  {
+   "src": "/media/shots/lewix-ai/s-hero.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "LEWIX over the particle mountain",
+   "page": "lewix.ai",
+   "row": "cover",
+   "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAwCdASoYAA4APtFWo0uoJKMhsAgBABoJaQAAW8FT/GYhV0Z5esAA/vaPMmTWkS5A4CO9uJybYC4idmq9TpeRVNyD5or0RVn/pBKtw4C7JSADqamp/EdSXgAAAA=="
+  },
+  {
+   "src": "/media/shots/lewix-ai/s-mountain.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The camera climbing the particle mountain",
+   "page": "lewix.ai",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAwCdASoYAA4APtFUpEuoJKOhsAgBABoJaQAAW+jH4zQCTaIaBgAA/vaPAnW7NnP9Iv+RGFEr696LBJ9gBhpt1E804AxVAuf36AAA"
+  },
+  {
+   "src": "/media/shots/lewix-ai/s-loader.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "The loader: the Lewix mark filling",
+   "page": "lewix.ai",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAACwAgCdASoYAA4APtFUo0uoJKMhsAgBABoJaQAAeyAA/uyY0lgAAA=="
+  },
+  {
+   "src": "/media/shots/lewix-ai/s-mountain2.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "The ridge, close",
+   "page": "lewix.ai",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAwCdASoYAA4APtFcpkyoJSOiMAgBABoJaQAAW+uXkQ/SB/fWRgAA/vdy15arKwsqXNS6AiKZq+v6hGkYAAAA"
+  },
+  {
+   "src": "/media/shots/lewix-ai/s-m-hero.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the hero",
+   "page": "lewix.ai",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAQBQCdASoYACYAPtFSpEuoJKOlMBVdUQAaCWcA0YGLQV/lrdYm2yWoZTGov3OKdjoAAP73ZVljH/bv+LzbEsuj430mt7zEdarRBrwhtPZ91UwwJxNmqfI3DKWKkPuNeWfvNG8aeTBNXrUtT/XOtCw8+xF5JmslRPXgd1B9doiNmt3UJeQKzYSlg1fPMLqKAfgeq3LMoeeyNXOTGXq867/ZZKqwz+k2fSdQCBfHPS3Es3uAAAA="
+  },
+  {
+   "src": "/media/shots/lewix-ai/s-m-lewis.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: a founder as a particle figure",
+   "page": "lewix.ai",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACQBQCdASoYACYAPtFepk6oJSOiKrgKAQAaCWkAyJgLTf3wnxPMopoVqJ9GXDiQJwPVwvi0TAD+9JWJrpSCX9+vT3v4LMMvVt8PtKXEXctsHOky2QDHbljYgGXLsHDicoFIy5aaoO64QznJLYooRzYnZ/KQFOgJq7MAAAAA"
+  },
+  {
+   "src": "/media/shots/lewix-ai/s-m-work.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the work list",
+   "page": "lewix.ai",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAACQBQCdASoYACYAPtFQn0uoJCKhsBqtUQAaCWkAzcAWHuLFkvLfZ2WgBjRUgdYXz4GqdKytuAD+9JWJrpSVlaDExi87dQ+WWdK4RVg6GVaA+xiScio+GUPS6FkqzRmKkvDOXWNQyr+P3Q9y+kAwnx59nRzGg5bld6PU1ujPNLhXjtcQhZSMyJm/p0LBEBsMxThMdnydZlyDAoBsW29l99KsgAA="
+  },
+  {
+   "src": "/media/shots/lewix-ai/s-about.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "01 About",
+   "page": "lewix.ai",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAABQAwCdASoYAA4APtFWo0uoJKMhsAgBABoJaQAAetg+AgnxgAD+8je6JaCAYB+08N6YbytHO4LFq5QaXNS6AiKZqiwEWI6kvAAAAA=="
+  },
+  {
+   "src": "/media/shots/lewix-ai/s-team.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "03 Founding Team: each founder as a particle figure",
+   "page": "lewix.ai",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAABQAwCdASoYAA4APtFUpEuoJKOhsAgBABoJaQAAW+oK9+LRAAD+9omRsSDC08V6P1IpX1AZ5PIFyBzzVDnz+/QAAAA="
+  },
+  {
+   "src": "/media/shots/lewix-ai/s-work.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "04 Work: the systems in production",
+   "page": "lewix.ai",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJaQDKACHw1P2lpRZIAAD+9ofrhDn+13GGzowuXwkO1N+q16Er0RVn/4DTzaj0qCiAAA=="
+  },
+  {
+   "src": "/media/shots/lewix-ai/s-footer.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The footer: LEWIX over the mountain",
+   "page": "lewix.ai",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJaQAD4Tou2+1qtAZoAAD+9p6Vqlv4sWIIk0WG76uxekJaqEeib4o1ByDDdtTA4E4sb0AA"
+  }
+ ],
+ "smoothsail": [
+  {
+   "src": "/media/shots/smoothsail/s-hero.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Your shop, open by the weekend — the hero",
+   "page": "smoothsail.my",
+   "row": "cover",
+   "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJZwAAXK/gwCvPPfmQAAD+9OM9Lg6XnLcFGA9/A9fgj+VJW09q/DOJeB6jGkXDtn7N/MGpbvj5Jp6n/p0szPyVxO9C8pPHvgA128AA"
+  },
+  {
+   "src": "/media/shots/smoothsail/s-mock.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "A real storefront running on SmoothSail, framed in the hero",
+   "page": "smoothsail.my",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBACdASoYAA4APtFYpEuoJSOhsAgBABoJZQAAXGUdELKHfOKtYHiCYAD+9NJC7i3Ybn6/zY5UwvEJgwZ4gPASgkr4h65HX0/b2QsZ8gBtFSZwSi+L83nbGP7Y5lWesRqraka1WAA="
+  },
+  {
+   "src": "/media/shots/smoothsail/s-ms.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "The site in Bahasa Melayu",
+   "page": "smoothsail.my/ms",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACwAwCdASoYAA4APtFWpEuoJKOhsAgBABoJZwAAW/B3P0Iv7/LnAAD+9OM9P1GOR40uIlvHi5sApAsbr/gqMppU1Sd9ZhXLwBEbS+Lo1YDHWemUmyc63c1AzHwzPf+urcOA1w4nyWHwOTboAAA="
+  },
+  {
+   "src": "/media/shots/smoothsail/s-domain.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "A shop on your own address, desktop and phone",
+   "page": "smoothsail.my",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAwCdASoYAA4APtFWpEuoJKOhsAgBABoJaQAAW+xCPGgwX2Km1MwAAP700h0CHqckf7Sn+hXjc73izJRhHgC5EE47pwhHTMcKMRteeYcIT7d+lVs98NgBgAAAAA=="
+  },
+  {
+   "src": "/media/shots/smoothsail/s-m-hero.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the hero",
+   "page": "smoothsail.my",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAABwBQCdASoYACYAPtFUpEwoJKOiNVQIAQAaCWUAyUwLTeb11T2TN38jNTgVYgL4BbZtQF3AAP71GWlBSdJC1TwGsRKXyCDmRXoWaPi6tMaMbzDffh9Df/prLnaS/IZxezLZlweRLtsJsRU/2IRyG6+9DBAN67h8jtznLjsJIiaVibobSqmkRwMkT1hMpdhyh0SCy8XJRso0lnmwC7hn06H/aw82+nhJweJMo4NflJneL6pLHhOxGs8Eh0I1E+UD4cmaZ47lRS50VaCVqCjAAAAA"
+  },
+  {
+   "src": "/media/shots/smoothsail/s-m-products.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the storefront in the hero",
+   "page": "smoothsail.my",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAADwBQCdASoYACYAPslWoUunpSMhtVgIAPAZCWUAygAWm+QYGh30hPWqvgxdRW9OA6Wv6dxakCD3AAD+88jrSoLHE9IcPCSDlyQt3V0bFmxAMBnSvDWFsx307OemO2UJdthJozmi6Y0O/MYliFpX/9rQ1mq1R+GlFElnQxt34G8Fqrh5/CNQPyidsyPYsu5ucaYs9t9RO7Ajr0CTLkwhuDS0Gv2nO6VMRSziaYpPIAA="
+  },
+  {
+   "src": "/media/shots/smoothsail/s-m-orders.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the orders view",
+   "page": "smoothsail.my",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAACQBgCdASoYACYAPtFUo02oJCMiMBVaqQAaCWcADCTrK+CBjxkkR2kVQ1zUpk+RvcNUams8MLO54f+MtHZ8AP71GWvhElONMWqRzopYB3oFwGE4Ir52SIG3WIi7nz1rN2WBm5n6nWa9poprbZ9x/Mvl27aI8SSfLHacjmApCjZVcurMn7HLkryS1Ily/xijN6kLFGID46ibPDWR2gl//w4Fi7IK2MzcUOAAAA=="
+  },
+  {
+   "src": "/media/shots/smoothsail/s-parts.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The parts of selling that nobody enjoys",
+   "page": "smoothsail.my",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAABQAwCdASoYAA4APtFWo0uoJKMhsAgBABoJaQAAWqEQYOgMAAD+88P0mV1n3IAWaugqgf1YgdkLJ3qdVCGzbtw06dd+OvPz23OMAA=="
+  },
+  {
+   "src": "/media/shots/smoothsail/s-orders.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Paid and packed are two different questions — the orders view",
+   "page": "smoothsail.my",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACQAwCdASoYAA4APtFWpEuoJKOhsAgBABoJaQAAW/EFqmfaTT4AAP7zyUHuV1URSF4VLli6NGXkPWSX5wwWbWtEOVXtdFogWTx1hHqOAAA="
+  },
+  {
+   "src": "/media/shots/smoothsail/s-why.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "We tell you why, not just that",
+   "page": "smoothsail.my",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJZwDE2C0KJUAAAP7w940nfFviV2pYCU2CFEG3HshZPgQiAH9JU9MgAAA="
+  },
+  {
+   "src": "/media/shots/smoothsail/s-malaysian.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Malaysian by default, not by plugin",
+   "page": "smoothsail.my",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQBACdASoYAA4APtFUpEuoJKOhsAgBABoJaQDLLCHgV6NtjJLN0nFyAAD+9gmv5jAxTsHoCmDCv3r3trACGt2QsnEtS7Cmza04KwU33Q8AAA=="
+  },
+  {
+   "src": "/media/shots/smoothsail/s-thirty.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Thirty days, no card, your own shop at the end of it",
+   "page": "smoothsail.my",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJZwAAXK+PzR8HvpT7srAAAP7yNTUx+7KLG5LMwPfroyRgyveiq+1WdvnhK6qoYEwWZmLpt/GNhNk2WOt4OaK4FvPCeJdfMmpOQ9hpSAE4URC9Rd6WAigA"
+  }
+ ],
+ "big-brain-furniture": [
+  {
+   "src": "/media/shots/big-brain-furniture/s-hero.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Old Wood, New Life — the hero",
+   "page": "bbf.lewix.ai",
+   "row": "cover",
+   "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJZwCsACHR2esrpZ1srXYAAP72iZ5YBDQhbOoWsnyXlHLw675ZYAPVc4gTdIZwyb9r6vCwlA0xnPdCfBSdPvQA"
+  },
+  {
+   "src": "/media/shots/big-brain-furniture/s-danga.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Project spotlight: Danga Sutera",
+   "page": "bbf.lewix.ai",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAADQAwCdASoYAA4APtFWpEuoJKOhsAgBABoJZwAAW+kPIBji04xJ8pAA/qN/quzME99aHACrFnfQkPbFkdHfDshuV80BvZn6Wssrx154BoFf603OuWi5I93frbc7/AVtK2WAWLubKmfx8dzX2j2Y9g8HV3p1sLx7nm1tt3e2Dh0U6KkAU/qBynIIyfeGU+BpKK8uONAA"
+  },
+  {
+   "src": "/media/shots/big-brain-furniture/s-product.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "A product page",
+   "page": "bbf.lewix.ai/products/lauren-reclaimed-teakwood-plate.html",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADQAwCdASoYAA4APtFUo0uoJKMhsAgBABoJZQDA3CHglUjIfN4mAAAA/vTUHj6+V9b+exGhwySsy+xd1Alc8GZpaTWqpctAv1rUzKrIYRdPtDA0QFpmC7xIprVlNbSAQWzAQAAA"
+  },
+  {
+   "src": "/media/shots/big-brain-furniture/s-materials.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "The material index",
+   "page": "bbf.lewix.ai/materials.html",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQBACdASoYAA4APtFUo0uoJKMhsAgBABoJYwCdMoM3nEmWDfD4HUXBuCcAAP71GIjKv/idWFGKkZiBiNJk+CTLo5dngk7q2luAyRqBGEujm1n2kuvYbVgxf4Ve2fw547viBpkhCAA="
+  },
+  {
+   "src": "/media/shots/big-brain-furniture/s-m-hero.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the hero",
+   "page": "bbf.lewix.ai",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAADQBQCdASoYACYAPtFaqE6oJKOiKrgKAQAaCWcAxNmJsjGUp3zxoVVdTuJ+uTTxabGkQY72WowAAP74UgcK9BdGpjJTcXq/zpoLEx/cNnm8OkhVkdzwztgmSbDlkYEO2Sk0UPjPDGzj7RvSIYFP0HuAfaVKFhOrR8EtdWPY+IkFPgVu0yjI49n/yB8FyERihB/DLYdJNAld+1Y/OUWuTHrcA/m4HdEi7obMrJzgjuV/d6S4tj3aRuQA"
+  },
+  {
+   "src": "/media/shots/big-brain-furniture/s-m-danga.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: Danga Sutera",
+   "page": "bbf.lewix.ai",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRi4BAABXRUJQVlA4ICIBAAAQBwCdASoYACYAPtFgp0+oJaMiKrgIAQAaCWcAxgmwpUjJOJzo8WSB6fUcluws3jYUz0SViqW5+Btw+FXlQu5A8AD+9wpGpNKkxm66uGtPf8PQnzy+yi+K6pOPZC8zsB5xIEROU2iiwZwG3CtcCmPCr0Iz7tpo0u2ThLQCJHSVvFkzXjghg2yE0euaNa+ZRizdTz3lkty0XLDBbIiqe4aMfcXJxn8xfhMYu1xC7ETn7kXoQ8kZs3MFhKcMstxxkcLQf+MdvlxZe7Fj57hxvfNchsbOEOD92iGfkeKTGT1550ehqzx15kk/rPb3iO8gNLGOBx5iB5hxbEApkkGxWrUx8/nJ5c2kAMfn8+kvMFyvj4RTBy5as2dHQdMgK7P1IItAAA=="
+  },
+  {
+   "src": "/media/shots/big-brain-furniture/s-m-categories.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: categories",
+   "page": "bbf.lewix.ai",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRoQBAABXRUJQVlA4IHgBAAAwBwCdASoYACYAPtFgq0+oJSQiJWmZABoJYwDE2y5/EIAQZa4+xRUJMrnz1Bn5aSKyU/Kk6QpAngenmJCbSDmYaMAA/vl4KwgftDoeDrH9Ezw6JbW/9L7Hq5ZgHZKwzhzXSk7NQZSpmKxAEwGLD/87DxqzzU3ss2mu4N04PYRVZhuX1ia0iCIBzOjEv10T9q/GH9c8qiTlmY21FjY8UEBRRRwlWMz8yo1J0VplBu/d/mEXYzA/BSWvT2OfVJK79VCMV0SwczIrJA/z1+GnUU7jWKBmU91kgI4M2SvLwnNhrGHtpHGPA3aHHh+Za6OiB7/Y9P+/tOxccLTUhMdJSCT4nY9/kljPVXx/BePjQfR4KDjOOQb3rx7qjuLpZoN/fIuf0yZhx7sZ28OpP3tfPXfVatx5Pb3oBfKakl6TsK+blXrHNmbiDqhKeF03tQIR+aFviX96C+kp84XmKk/FGrpd7sNROvjQhTv2QRzTwWt7CZ8Mznj0HJAA"
+  },
+  {
+   "src": "/media/shots/big-brain-furniture/s-collection.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "A collection page: dining",
+   "page": "bbf.lewix.ai/collections/dining.html",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAADQAwCdASoYAA4APtFUo0uoJKMhsAgBABoJYwAARaJ+H0y8XRNneSAA/KUGs/Vn3H0jJPVDzfeyHW9a6MBgtk+O351pn1WhzQLUOX69oX5KVt31Jj7nV69dW65c0an24wer/kh+jLRzuUzf9SjyUZpsJC/Yke1vafugHKw8PoJpXOpdnfZ/y9AGaQwAAA=="
+  },
+  {
+   "src": "/media/shots/big-brain-furniture/s-categories.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Explore all categories",
+   "page": "bbf.lewix.ai",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQBACdASoYAA4APtFUo0uoJKMhsAgBABoJZQDKACHYLZBM4V13cZ1IAAD+9gYN8Z/AQMlGseafUWxZ6DCPpW70ezsiqy7HAnhFbvxSg26Fyxnlts8RBSBQ421LCBNV1uzKQ3cCDjGdiwZrrrrna3zIp2Si8fURI5nawAAA"
+  },
+  {
+   "src": "/media/shots/big-brain-furniture/s-journal.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "From the journal",
+   "page": "bbf.lewix.ai",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJYwCdACHXbNbh0u5LB4OAAP72B1ep6Yo8xIeUbaZt2dbyAgZ5KogoqEUXzftKk/YRtxN99wkFWZyWboxjGUxyOiKLeEfLEmsfcWZ4zopf9W7/OLtP7gm9oHKhm6rFw+Xur7/kbBqYoZ7ocGIAAA=="
+  },
+  {
+   "src": "/media/shots/big-brain-furniture/s-dining.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The reclaimed teak dining room",
+   "page": "bbf.lewix.ai",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQBACdASoYAA4APtFWo0uoJKMhsAgBABoJYwDE2CHftrSf65zHKI/2gAD+9gW/HpuNbey1F8jOjksEg1NRBmxbjOJbRQvqgHkiLQ0/bMnJV4qdhrPlkCdene5Nq7hxZPmPX6Qy24zzA7ocPktv2Z1z0WUBKe0tL6+AAA=="
+  },
+  {
+   "src": "/media/shots/big-brain-furniture/s-projects.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The projects index",
+   "page": "bbf.lewix.ai/projects.html",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAABQBACdASoYAA4APtFUo0uoJKMhsAgBABoJZQCw7ywBiP5lRR+cU6ZL6GIAAP71FflvC/MIksVEVPIgW+1gGuoG31a+GzquT7+744lVYuFwbW/1fcGU9TEsxrnjdzs7bpeHjn4L+SIULKthVgJ7MOnvkEHzrnRw1pMJM1B1t8ozKskJerBY4gb/+5lWQiRUZOShjCcQ3UTAAA=="
+  }
+ ],
+ "big-brain-furniture-alt": [
+  {
+   "src": "/media/shots/big-brain-furniture-alt/s-hero.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Crafted for Moments, Made for Gathering — the split hero",
+   "page": "ff-bbf-alt.pages.dev",
+   "row": "cover",
+   "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAADwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJZQCdABSfwt5SyAiHqQsAAPwfzS1I+8GurL00dpwhG9CkCi4Hq7A4cy4n1OHD+gV7v9rcrnYGO7ETYfX3rWBBhGayMMgdgcC/PdzdN5BhaBjYQ9gMaZr/dZYQrW1V+ahMHJDLaB1GiLSFsTdciBhKDOa0XHKjNwAAAA=="
+  },
+  {
+   "src": "/media/shots/big-brain-furniture-alt/s-categories.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Categories as tall photographs",
+   "page": "ff-bbf-alt.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAADQBACdASoYAA4APtFUpEuoJKOhsAgBABoJQBdmUI8DOhcgZeUOQOmkbNIGl1XqAAD+NH6JZ/XIN9e06yNHns0eAxQ0Urx8mhDIhn+L/SpmW0SDJcszz2Hvn70mU72F38HLrdf2GmhsejthWiYuDnJCjkIp5R5os9Aciy5dx71c9SvVgAWf7kU66PAI8vtTdpKAYj7+Bf39wQllsz6YFy0YER5Pb3gaSwb2fLThLZj+uNP+LW1w9XdE3SevGrWCjpSwAA=="
+  },
+  {
+   "src": "/media/shots/big-brain-furniture-alt/s-product.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "A product page",
+   "page": "ff-bbf-alt.pages.dev/products/giselle-tray.html",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJQBfnBDww1SbzQ8S9LOAAAP701EpavDBM7b5RZSHpwoskdiX5+IemLPyoEj+H3k//5r4Ai2JXT44JSN9BNnvDv/Y63msSvTJ06sXgEm0/lrIZRTy5lYAA"
+  },
+  {
+   "src": "/media/shots/big-brain-furniture-alt/s-imperfection.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "Guided by Imperfection",
+   "page": "ff-bbf-alt.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwBACdASoYAA4APtFWpEuoJKOhsAgBABoJZwC2yGlrMxxqORPmNkgLOcAA/v44fIwcAx/4LPvP4exDxhj7FqCdzj8cAJGMdwONlHXDhsLnstc6Z/bx2lpTQuslMeDnyQDnGfhB1yAAAA=="
+  },
+  {
+   "src": "/media/shots/big-brain-furniture-alt/s-m-hero.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the hero",
+   "page": "ff-bbf-alt.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAADwBgCdASoYACYAPtFYqU6oJKQiKrgKAQAaCWcAvk2yQH8SFkYk0ldx1OqMava5epPNJ/YiZdo+U8T135rd0rYUAP7Qzs/4sswgNYv6R4nFADrSNm4yI7TpuKXv1oHTVYzhB5AcT6UT2vfQm1z7WbdBCsqOvzu9t1Vxu5pcQB5YAwEZSPBoKsp8hld0xj5LEuGOBWLl9lTBuhSw9mWAsy6+6cjGpKJp8pzYbiFvi15bzsg81MfZ92rbk6RAUljc6OLVTsl97DPEJTMkpvikXLp4p5pAbLwAAAA="
+  },
+  {
+   "src": "/media/shots/big-brain-furniture-alt/s-m-1.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: Old Wood, New Life over a slab of reclaimed teak",
+   "page": "ff-bbf-alt.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAABQBQCdASoYACYAPs1Ookuno6MhtVgIAPAZiUAXGSQAOVXWpwnd+ejWVnFTcSS5tD6c8QAA/vP2u583LmagZ3JQvKeiRRDNq1+3aF2PtiBALdMskz9zXM1zoMk0edlY3aviCxhqbtJqmbfu1BViztbSPIZTngOVtE62pFs13NwHfByuzQFg9VKOjco4n7uqFHZuJM4PnUYo/GlYxCP/CNjVMKOVj0aFrBZR3noUPSUbi9MLHejSyawjgoQAAA=="
+  },
+  {
+   "src": "/media/shots/big-brain-furniture-alt/s-m-4.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: Guided by Imperfection",
+   "page": "ff-bbf-alt.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAACQBQCdASoYACYAPtFSo0uoJKMhsBqqqQAaCWUAuzOwAi+ZkeoPxXOanO6VbMynn2q9NXMlAAD+8IvDt+cAq+LkTi7A+2V1gEqiCKHgkhx7FtIHknw1CkrVB0vnwUfM0pruEH7D44lCvc4a6nR6AB2Qe5F+lIA/7SUaiEmK53Qy2X1XFaCHkT3APVnYsBdXujugVYTMEplC/I09I8Wn3JuM3q0yx/DrFl5BHR1W7cEJEytbtzxkkfgJV9yuKEf8CKjZEM9Wb5AAdWAA"
+  },
+  {
+   "src": "/media/shots/big-brain-furniture-alt/s-oldwood.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Old Wood, New Life beside a slab of reclaimed teak",
+   "page": "ff-bbf-alt.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQBACdASoYAA4APtFWpEuoJKOhsAgBABoJYwC7ACHiCD7YG7cXIDsWEAD+4NWfq17D5qDHdvjhQUvtOtM2HQ2y36OfUAVfvHdBYhLs3DCo3oUMtN9XS+ZrXn2ld32xSC8KbfjALonIXsHCZqhHpsdnSo/YO2VysQygAA=="
+  },
+  {
+   "src": "/media/shots/big-brain-furniture-alt/s-table.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "On the Table: reclaimed teak serving pieces",
+   "page": "ff-bbf-alt.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAABQBACdASoYAA4APtFUpEuoJKOhsAgBABoJQBWGUGRyT/gO/vXW0aZUiBosAP701tk6fcZRQ27YZaAgLifq7ZPR9RwvjZqlxgZPHhxDdfNiMyKB4LP2vklcWyFviVnhKkMHgUTkWI7zcPYRjF1SZuOELYkhL00xzefpnm1KJ6RxXEh5RQ1QPAeJJzQQiSFArFg2vVojswuyAA=="
+  },
+  {
+   "src": "/media/shots/big-brain-furniture-alt/s-storage.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Storage That Earns Its Wall",
+   "page": "ff-bbf-alt.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJYwAAW3/SE9XxSAAA+RRS1MY0XYTvfhgZQK6YY2eJzyx7oavzImYzlI604HnjkblTicQwJbhcZFs2bP4rfr+3vkOcneMmsccKvXYr2htwAA=="
+  },
+  {
+   "src": "/media/shots/big-brain-furniture-alt/s-collection.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "A collection page: sofas",
+   "page": "ff-bbf-alt.pages.dev/collections/sofa.html",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAABQBACdASoYAA4APtFWpEuoJKOhsAgBABoJZQC+SCHhJ6VvSsrt0AB4XQsQAP701o/qeI6+FSmKWqAcviSyCp3Ck3C7iiaVrIKlIaFHj6CcAbTopBpuAnPZyfTLDjkNhAs927LCknZoEZQR9T4I/LVmx54aCLiWwe+K10Px1mdrhy+ezSvK9WVLyekjeSCMTubGqFYfjm4AAA=="
+  },
+  {
+   "src": "/media/shots/big-brain-furniture-alt/s-rooms.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Shop by room",
+   "page": "ff-bbf-alt.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABQBACdASoYAA4APtFUo0uoJKMhsAgBABoJZQCdAdwLgdb4RX1IEY1URKsAAP7GA9WyTvN5Ln3L4aP6uc4OPyZoXrheeYPpCH0SCQTZNF6PAJD173mPIlnmeslsP1Oz96kJyyRm5rm9CyrHzCma/b7fgfed9LjfAOwO6H5RG6KMCNWb+fcWYjbun1T0RWg4gm0OePx0Ge/tANYtlYD79OZqVAAAAA=="
+  }
+ ],
+ "ascend-peptides": [
+  {
+   "src": "/media/shots/ascend-peptides/s-hero.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Premium Research Peptides in Malaysia — the hero",
+   "page": "ascendpeptides.my",
+   "row": "cover",
+   "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADwAwCdASoYAA4APtFWpEwoJKOiMAgBABoJZwAAW9psush4MddBY9WgAP6jflt1W/eEkA7H0UawgKYNdBiz3L+t/dsdd4WQCo32r1/4e5OweQWeddS5//BWum9buQcfhy5r2zN/+YEYGmAav8R/EVcC7Scmv583vWS2xgBQVuSZWozhHIuAAA=="
+  },
+  {
+   "src": "/media/shots/ascend-peptides/s-product.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "A product page: specification first",
+   "page": "ascendpeptides.my/products/ghk-cu-100mg",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAwBACdASoYAA4APtFWpUwoJKOiMAgBABoJZwAAW+1DLQtWdSrHd4xMjgAA/uAL2fJFfOXAigx2wGarlpkBl66YBrIjdWpMg5wfHFNCH2ul2T3r3qxudMm1Ig0krHeTPZOneIteLzniXQtEfYwexUpI/1IM7dwSwoIlqvwofrY+Io4A"
+  },
+  {
+   "src": "/media/shots/ascend-peptides/s-feature.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The featured compound: vial, specification and price",
+   "page": "ascendpeptides.my",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAABQBACdASoYAA4APtFUo0uoJKMhsAgBABoJZQBTAFwEt96hEGB0r7iResJgAPKn6z7/1Z2pVcOyA0Oxl9dNhS6b4G9HaaA8zj4Z3w7FlI3knJDR93Qb/JwX/DSWFrgkeWxmoi3VRLPm4SBk6QRaWVkOS1H1u6cWumTuLb+JGdf83rvzNidg34Ek3q4mAAAA"
+  },
+  {
+   "src": "/media/shots/ascend-peptides/s-m-hero.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the hero",
+   "page": "ascendpeptides.my",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRjgBAABXRUJQVlA4ICwBAABwBgCdASoYACYAPtFgqE+oJSOiKrgIAQAaCWcAyy8uk54EAs66LhMB7GNZF7ENoI8o+8E8MEwLSwuCYMAAy0/mWEtwp1iIIBop4B48jl0/jcmOu1Oha70ZRvGBJTVYEGlATokaUh4huOgaKSZRXubFyRYFvnHmCvGPSOMadVmI3p3zboDB9rOXcyz3tziyhHhqDku2gQ3pa3/LLuGv2oD3jm9/hfkWplWz202XgFwCluGYSlY+y3xbJNZVTZyw/BjH9XJ5mfZlCNgzIMRzEBQFdr5V1fT/UCdW2ZuQpZzHgEmb7/nOWa9eb/5CzPYgFvT1iZMgXpBeWRT9R43W/aBuQrTqjZMtd8mU81KKv1+Fez6JOlr1aRtgCX1ufGZyB43kluidxW1NVE7O+AA="
+  },
+  {
+   "src": "/media/shots/ascend-peptides/s-m-vial.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: verified purity, and the featured compound’s price",
+   "page": "ascendpeptides.my",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRvoAAABXRUJQVlA4IO4AAABwBgCdASoYACYAPtFSo00oJCMiNVQIAQAaCWIAzoX/5dgi9ii01RKEtgRpr+6Dlu3JdOLmHqRY5yNKglgA/vIVhiz6LhCDNUbrl5PV5IRw6/6S/bT5VlthtVVDiPo0g4goPM0v3JSkLrny6iVXd3mVzRWm/Y3B0wPLVpnvrrStrKU1txRFdkht215fhDApb2uNJgXcAj3+ysaz5u7pU1JdMNlUhH9xeg4lhVNQXne/O9KeBTxMiGMcTSbh2QFH1Y/+2l+8uvw+nGmZDgs8zOlGfmXatL+8UkzQtccSGJYcbJYRgP0bc3WGdUYkYAAA"
+  },
+  {
+   "src": "/media/shots/ascend-peptides/s-m-product.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: a product page",
+   "page": "ascendpeptides.my/products/ghk-cu-100mg",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAABQBgCdASoYACYAPtFWo02oJCMiMBVaqQAaCWMAzJQLN13SOkCP0IacJUSsOud+svLs4nhIWbkg5Y2eXADLT+YDefDMrNBWd9D8L9PL49BUE2zJLjLxAhQhruG4fMSGxjYB+VMILQ+Jvktj9eaAOcFzw0osmU+IIThQyPYtRf9HpP7Eakob+R2uLM15J2l7HWqYbWfIJEFlX/5S4inajOBf/2a9zDbkib+85GcsVhFpz3omw+HSjHc/doPndUllrBmA6Gt8ra/5eRfuhIsxoks0vXRSM+BvUkx9mKn6RZACyQO1ZheqV9n2Xk628MTXxOszizTAOqFvkEWyCLeNEjkwkNYoBVdBirshXoga6AA="
+  },
+  {
+   "src": "/media/shots/ascend-peptides/s-featured.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Featured products",
+   "page": "ascendpeptides.my",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAQBACdASoYAA4APtFUo0uoJKMhsAgBABoJZwARQAKkiHjsifftM/Dd8AD+8egK/oSiCH97eup2M0B7+yIAaA2SHZeSyfRQIpH9JGj4cg+QNGxZu0g951HpGSTKcknO1INEa4j7gwcXbkvV/zchzrkxwyiCT9Kfbun2tW0S1X4UKMsKi3EwAAAA"
+  },
+  {
+   "src": "/media/shots/ascend-peptides/s-categories.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Shop by category",
+   "page": "ascendpeptides.my",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwAwCdASoYAA4APtFUpEuoJKOhsAgBABoJZwAAUcwTzovG8JR/wAD+8emx5W4I0Qoe4m1l9eDTfPciaQP49V8OWHx3LPV4uAsGI8BPRj4xlJOfm2oQfLkO2YmHTcI/EBYUA6gA"
+  },
+  {
+   "src": "/media/shots/ascend-peptides/s-calculator.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The reconstitution calculator",
+   "page": "ascendpeptides.my/calculator",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAwAwCdASoYAA4APtE4sFMoIiWjmAEAGglnAABc6ptm+SeQAP7gC9nyRXpgdcl0gcFhPRF/k4ku+Xgbd29qrVg6gAA="
+  },
+  {
+   "src": "/media/shots/ascend-peptides/s-product2.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "A product page: documentation and storage",
+   "page": "ascendpeptides.my/products/ghk-cu-100mg",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAABQAwCdASoYAA4APtFWpEuoJKOhsAgBABoJZ1nyADc128QAAAD+8OZWIb16pNs+3pycabzEWpeKuh09Y2J2zOod3LHqgGu44Jar8KH62PiKOAAA"
+  }
+ ],
+ "lewix-my": [
+  {
+   "src": "/media/shots/lewix-my/s-hero.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Software your business runs on — the hero over a live dashboard",
+   "page": "lewix.my",
+   "row": "cover",
+   "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAwCdASoYAA4APtFWo0uoJKMhsAgBABoJaQAAUdxoTwAAAP71Abt7ypQxuSQGmacvl2wKeKONG7MsA+036Gs1kb/LcevQ9eH868FIAP+UKLMyKQZM1E544AA="
+  },
+  {
+   "src": "/media/shots/lewix-my/s-dashboard.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The dashboard in the hero",
+   "page": "lewix.my",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAwCdASoYAA4APtFWpEuoJKOhsAgBABoJaQAAYf+RCt8DFmoAAP7zzcTwT5FTiGYlzemY9Pn3foHK6tFvyFAA"
+  },
+  {
+   "src": "/media/shots/lewix-my/s-horizon.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Horizon: where is software and AI going?",
+   "page": "lewix.my",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAwCdASoYAA4APtFUo0uoJKMhsAgBABoJaQAAW+yc6pzh/TiUnAAA/vPARoYXCHaX+esegsQpIgph8s001bhCTp7sQNJgA7jrQNZnGns46wEzP743NF2k2QxCYvUjK3F4QoUAAAA="
+  },
+  {
+   "src": "/media/shots/lewix-my/s-system.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "One system your whole operation runs on",
+   "page": "lewix.my",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJQBdgBDwIXZbW1tEvH7yAAP7yKCTmPbAEec+WpxViB/5DOGyRTi89fo3yfVh2atCtepCd8PMS6bxec1r8faoDvZW+V/voYd+mi3EQ4yoAAA=="
+  },
+  {
+   "src": "/media/shots/lewix-my/s-integrations.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "Or start from what you already run — integrations on dark",
+   "page": "lewix.my",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACwAwCdASoYAA4APtFYpEuoJSOhsAgBABoJZwAAW+zbV8mmez8JAAD+C5dO/ScbjsFGPsoh4xmZcy63x+x3DIVjqNIsABtJC31IBT/w8uLBW60gjaQ3uUceU9Jpj2T4zDQgAA=="
+  },
+  {
+   "src": "/media/shots/lewix-my/s-m-hero.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the hero",
+   "page": "lewix.my",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABwBQCdASoYACYAPtFep04oJSOiKqgBABoJaQDI1y5ZH84EJGdmteiHvoPd/GF/cmhcRQ0AAP7000NqnkHBYucumVasYwffVBavvvxi1TWV/meeNUEcaEK888ZENJzslaO/cohf7SKLQpqEFq2NhstjMgrA4Rxnm7yE1LNNmHFqgzpV/7uNvh+ml25KSyEaBOHjIu/XoxDrhLA6IlXZDeoS/wAAAA=="
+  },
+  {
+   "src": "/media/shots/lewix-my/s-m-horizon.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: Horizon",
+   "page": "lewix.my",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAABQBQCdASoYACYAPtFUp02oJCOiKrgMAQAaCWUAyngLGQrHoKV9h/2JtlENUiAvv6rLOQAA/vP53NqVuT9mJ6fcNrX26H/GIkNGouKrH3ncKLVnN5r3U2Gg1emezg//OZrcdTpKh/j9PhHYupAM9uU7uJOzcJrEs/epH4IoEDxMv2x/4acUTy99f18GoXJS/cO2oB3vrLsncTfqld8jjfRH+a/xpkZkTzbH+zMqZye5ZXrDfmO+Q3TYg6cdl1j9fE03/GT2UqFrcbIUUv79y69nkNMXV1FwAAA="
+  },
+  {
+   "src": "/media/shots/lewix-my/s-m-integrations.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: integrations",
+   "page": "lewix.my",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAACwBQCdASoYACYAPtFgrE+oJSSiJWmZABoJZwDNwAtz2wp0lg6Yf6Jp+WODa4MYzMJadP4J5AAA/vCN1a0tBaRtxU/AvhzOqTnyiCWcAPg2eIcUeWAOj2wAqsFblRN6zPf/5sSaaJAWHryCUB85qDL4kla8mT4hB2u0EUybjXr2GJb3HCxRVItv9eQ05fWCfkgRXA9deA6qxMVkOXUvv1OPIdjNlULKcBLNd8pVOoRAuJnHZA/geewbEAJP9WDOPKPufwm9xdoIaBu8YAA="
+  },
+  {
+   "src": "/media/shots/lewix-my/s-store.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "SmoothSail: a store builder for the way Malaysia actually sells",
+   "page": "lewix.my",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQAwCdASoYAA4APtFYpkwoJSOiMAgBABoJZQAAW/ExK4rkYq3/tQAA/vIqkWKWEcBnpuIFpTcUhi+zRSJ8OoG9dHmtCFjhlm65O982XQOWdmLnrU63cg/hjdESOQSBvo8xHPnHo4hv804QAAA="
+  },
+  {
+   "src": "/media/shots/lewix-my/s-build.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "How we build",
+   "page": "lewix.my",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAABQAwCdASoYAA4APtFWpUwoJKOiMAgBABoJaWHgADcvlthQAAD+8TKENyDggqaqxQlBAendWTT3oPFPhU1VaK0ROK/624oAAAA="
+  },
+  {
+   "src": "/media/shots/lewix-my/s-footer.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The footer",
+   "page": "lewix.my",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAwCdASoYAA4APtFcpkyoJSOiMAgBABoJZwAAW6/CPLV2HgAA8qfaDV8xIo0fnnC80QhQu29xJMHHlA7n2Ei/z/VX/3WdvVTwmLMfIuINgxE2uyorYgAA"
+  }
+ ],
+ "basement-translation": [
+  {
+   "src": "/media/shots/basement-translation/s-talk.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "You talk to the person who builds it.",
+   "page": "ff-concepts.pages.dev/concepts/01",
+   "row": "cover",
+   "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACQAwCdASoYAA4APtFUo0uoJKMhsAgBABoJaQAAW0pzYsYUChgAAP7y6l7VF7E8f+Unz5JenVsL41B/ZmBLEkPQ5X7OhmmayyrpBHJaEWN6AAAA"
+  },
+  {
+   "src": "/media/shots/basement-translation/s-hero.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The hero: a line drawing on black",
+   "page": "ff-concepts.pages.dev/concepts/01",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAACwAgCdASoYAA4APtFUo0uoJKMhsAgBABoJaQAAeyAA/vMrM4xY3oAA"
+  },
+  {
+   "src": "/media/shots/basement-translation/s-capabilities.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Capabilities",
+   "page": "ff-concepts.pages.dev/concepts/01",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAwCdASoYAA4APtFUo0uoJKMhsAgBABoJaQAAetCXUCAA/vJ99YAL6pzrz5R+fWNl4qB3Oh2kj42MupIe3Rz43qNBgom5YeQAAA=="
+  },
+  {
+   "src": "/media/shots/basement-translation/s-m-1.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: You talk to the person who builds it.",
+   "page": "ff-concepts.pages.dev/concepts/01",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAADwBACdASoYACYAPtFUoUyoJKMiMBVdUQAaCWlne11/l6GmBrTLRaVueUGNVyGs+wAA/vae2evq6Ne3+53vI/7t7/zznEK2GbCHYA5A8mS3e89CSU0WpgkPJbhuzcZblwc3tDRkKp0IkGAUaSdbAfWU5lP4al7vGP2Qx5IgIJeGUeukOJ61dU8rpDbLw6xOsDpiRtbt1o4C854T9AYEWvSOG4bSHfwMrAAAAA=="
+  },
+  {
+   "src": "/media/shots/basement-translation/s-m-4.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: capabilities, numbered",
+   "page": "ff-concepts.pages.dev/concepts/01",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAABQBQCdASoYACYAPtFcpU6oJKMiKrgKAQAaCWkAyngLTfw0QsWyX78QPW3q/RU5W9EWXMAA/vWRwS9WPEqCR6x9flcMmzqbUo3xI6sSF+fkqsCF3oYEkCJ+WoZLzwDO0dKZcFp/z0lddZoJ99ePokyk2Lyn4oPwJqDoVv+Z5xu+6v33XOlU0PeWxN1tpQGu654QGtqXIAAAAA=="
+  },
+  {
+   "src": "/media/shots/basement-translation/s-m-5.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the Showpiece build and its price",
+   "page": "ff-concepts.pages.dev/concepts/01",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAADwBACdASoYACYAPtFWpUwoJKOiKqwBABoJZwDG9BabP+JDxlHffolJQ2qESkAX+sgA/vWRwS9WPEqCR+Saf321vcwFM3ZnKY3qDXfzQRZXLxKbbUcfb7iBJnUUyi9JNn+hm4jw+Ckcq8p5sp4WJaACnXmM5QUYxk7aNcgp8kHGpfNbyB1VHsI5/w4bYfHkP8rvMn51aUn8OPN2lXev4AAA"
+  },
+  {
+   "src": "/media/shots/basement-translation/s-ways.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Ways in: the three builds and their prices",
+   "page": "ff-concepts.pages.dev/concepts/01",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAABwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJaV2AADc1yaUJqQAA/vK3ix5mV6uX0R2S5erb3v9nGskx9LCNwc0ys/K2umELcfT/MR1JeAAAAA=="
+  },
+  {
+   "src": "/media/shots/basement-translation/s-end.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Let’s build something.",
+   "page": "ff-concepts.pages.dev/concepts/01",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAgCdASoYAA4APtFUo0uoJKMhsAgBABoJaQAAW5R3QAD+93Y7sUEoy4b19rojWW4Cgg8R1JeAAA=="
+  }
+ ],
+ "ff-shoots": [
+  {
+   "src": "/media/shots/ff-shoots/s-slider.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The slider",
+   "page": "ff-shoots.pages.dev",
+   "row": "cover",
+   "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABQBACdASoYAA4APtFWo0uoJKMhsAgBABoJbAC/OYwm3FLzCMLyFVpIRGUAAP7vaEISAQ8ID720I/YwrYBcPRSIwn3Fs8aKnKIgzc9gvcrT3uTeJMFP5NNHu/kvy8P7Z8RDx1LQQcZSBBQnv16U9wkvxdjikCqo7iwJyxR2z4dYtDhfD8+EPwcKsvIfHz6C6AAAAA=="
+  },
+  {
+   "src": "/media/shots/ff-shoots/s-grid.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Grid view",
+   "page": "ff-shoots.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJZwAAW55GslS4n1M3KJ1QAP7lCLG1vAWEMcVujnc9MpVSB7tnEkL+ittXWRDXlK6bxnggxfGyVA3dDhw8iJUi5CHYrdGtXv8XH+1N5pdhVFupuwCxRap2cGez1gABu6JTulhubk87+WamwoAAAA=="
+  },
+  {
+   "src": "/media/shots/ff-shoots/s-fisheye.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "The slider through the fisheye lens",
+   "page": "ff-shoots.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACwAwCdASoYAA4APtFWo0uoJKMhsAgBABoJYwAAW4XzZfsRagCk4AD+9EDdFuqX2bznAsQLHT1k5q8hMyl6W9HX5xUX7xW96Ii3boKr/3yIwo8e9tTBrJsgP6shcq8PgnORofMXNgL5riKUSrGnVH+kCMgAAA=="
+  },
+  {
+   "src": "/media/shots/ff-shoots/s-slider3.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "The slider",
+   "page": "ff-shoots.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQBACdASoYAA4APtFWo0uoJKMhsAgBABoJZQAAW++V1OVSIp50dwu9AAD+5gfzT98v4Uv9rGecTuN+5cWMu4rxv9bqZewkG/h/2I4gIsP05blrXzha3sXg2XtOSYNpUe0cvLt0lp6nvZvEt7od1+4Wkzynnd1nuGXsKAAA"
+  },
+  {
+   "src": "/media/shots/ff-shoots/s-m-slider.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the slider",
+   "page": "ff-shoots.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRi4BAABXRUJQVlA4ICIBAAAwBwCdASoYACYAPtFYpkyoJSOiJW5hABoJbACxH2v2zmAAZcwk+2Fq13+jl8OANBUwgnc81pOAQ/+N5hQdV6FX0AAA/sdpzytUscgzKlGS5Ybe5YDMKOnchjZ25YLP9SygD+Vb9RCYBdd7zYC0+rXPmLH+6gC1ELkx1iC7QT8KQ+sC+tkK+Xjbvf1kEhaG8Kn3d4kyRufYyJr7icimJpcrck7shyjBP7Abk19ZneBbCWLneJYIl8u1DnOs/l48UPN0d9DGfBWtaYQIkgvtWHkt+se+QBjrxNI1ipFx1rv79d5oLjKVKP+Jb9zl8amWDydS6wMxHnCWkXiyCuhcJUnwZaFvPrIYu4cF+g1ZXjZN+DY6SLGVTIdOpb+C/q2tkAAAAA=="
+  },
+  {
+   "src": "/media/shots/ff-shoots/s-m-slider2.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the slider",
+   "page": "ff-shoots.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRkYBAABXRUJQVlA4IDoBAAAQCACdASoYACYAPtFapE4oJKMiKrgMAQAaCWQArDLKbWygFWjLMDsWaeKOOcUitLoBUdjOpkGaDChcSh/Mnyk2NHBtIlKzuKMAAP0rcsrxnY82JWEeCUL6fU1w/Ks84dyx4wTowbdLtmV5VkNrV9gVsppbupHo+Nr7ITuyGXZcFgxg0f+dzoptxZE3xtcmGRxC0S7jhFn090vMvMpz6RdFXDWgrdOOP+UpczWwZYG3qCq/PlGJOMWcTkkk00TiJPIznJxbdQNLD18IO9d8aQ/W3ltySFAOPqwZOD4axtv6fWeGyglQ3w40bNcZ2Z47Zy5aybcJUQqkQLbwGQ/HVOhlOs0GzyN5orid1iPwTzkCiMnI0QgiI9inlowErQjpwMgnc1zIN2B3UN7QJnpylfrSeCVsGIWgwEAAAA=="
+  },
+  {
+   "src": "/media/shots/ff-shoots/s-m-slider3.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the slider",
+   "page": "ff-shoots.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRlwBAABXRUJQVlA4IFABAADwBwCdASoYACYAPtFip08oJaMiKrgIAQAaCUATpnRPFwklQQu/AXUIyl8uhErtOplmJHcvnM2XGMXpQNg+vl2ZHa0rYjYldAAA87/hpcNNgqxBL6bE+369qBk/F9QfzDR7+3cOxhQn4dKQjlWeoz16Q/IWDdocfg+oHUuuvxdpCw7HWrAfLRdj7SbECUlR6UIMH7ZAUZlB+PHpfCS9MiPKTfNLAQarsVNWnupOiwWt1/PgZ1DW9QZr4h0qYGGJmuYBlAYoaiGeWIAWIu0EEv5otlUXMDqKeDWFN+hr8vlZCGUHkS+v3WVU1qtvpOT9PCzvC2lRzTTpZ9zWLT19Oy3gb8RFxl1BzXhZSyVImmClWmbEYARVYdUeVqce2aXa8NuB5/2ZQ4KXkrEvPA5NUUa2R4GCywDVDaxNNbgYuKzGKyH47rUMil/Qi0iyT36HAAA="
+  },
+  {
+   "src": "/media/shots/ff-shoots/s-project.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "A project opened from the slider",
+   "page": "ff-shoots.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAAAwBACdASoYAA4APtFUpEuoJKOhsAgBABoJbADCgGjwy00VKi0oNGdl+QAA/v7DE0aeSThUoL47vsLotTGOEA0SyaWv/2ICHOjcfuk9WjGqgoE3Q+H/ZVLn+AqE4xiZLsg8hklVyATqtL/8Swbv9x/IvPhubzKL1+LqEvm1Ttubq7nQ2BWefm7jN5kzc9heDwR9U5bzbI84h1UMhAJ2c2b64GoAAA=="
+  },
+  {
+   "src": "/media/shots/ff-shoots/s-about.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "About",
+   "page": "ff-shoots.pages.dev/about",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAAAQBACdASoYAA4APtFUo0uoJKMhsAgBABoJYwCpL/7AZnnpf4t2lwEf0AD+81zmYm8wE7SmEr3s5cUnNEVKLFrZpjCK5bySVQ9+XFCRVB1xh1AWwsvNg3/E6izV1wQQA5orfDL7X2Pr5yNXZSEQYuY884f9+SGZklRUJSY+XwpkKG67cE8r8bs02MFUUucL5hRhUAAA"
+  }
+ ],
+ "ff-frames": [
+  {
+   "src": "/media/shots/ff-frames/s-weddings.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Weddings",
+   "page": "ff-frames.pages.dev/weddings",
+   "row": "cover",
+   "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBACdASoYAA4APtFWo0uoJKMhsAgBABoJYgCw7CE8WcD86txm/nVaAAD+zXT0kSaME3SOCFyc2+7dsEilBeqtfPRFjbtpg2rYfiGm8sOynbm18XmT3VFYkmFIVvdxwstOIj8Gi3dwCoAYg/IE34AO9oAAAA=="
+  },
+  {
+   "src": "/media/shots/ff-frames/s-home-w.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Weddings under the cursor",
+   "page": "ff-frames.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASoYAA4APtFWpUwoJKOiMAgBABoJaQAASq5gdZ5AFu6zYUOqgAD+7yZi49H3ZQ0l0Vja0LuSvMsPLwWFyt7tqu0z37Heh8wuBsJVEsHIdlhOfdbYY5nEjo9XnMH3tOHuNr2jgAAA"
+  },
+  {
+   "src": "/media/shots/ff-frames/s-engagements.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "Engagements",
+   "page": "ff-frames.pages.dev/engagements",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACwAwCdASoYAA4APtFWpEuoJKOhsAgBABoJZwDKAB6AQmLtjXDaeAD+6aTBUh9C5+vs+0KzySnMPAlsfiB8vty/rvHoIz7f9b/E6H9WS1IDu/yF8PGGP8EfBbtE1JxmSKb2oj/D0tScFZkHXdKrPAXnxrvZ4HQj/i3AAA=="
+  },
+  {
+   "src": "/media/shots/ff-frames/s-exchange.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "Editorial exchange",
+   "page": "ff-frames.pages.dev/editorials/exchange",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwAwCdASoYAA4APtFWpUwoJKOiMAgBABoJZQAAW39Tz0FbpCtIoXUoAP71dmI2+DPXNGjSyEYKKENaA91NM2/nmppZd6EoAdf/vXBJpacg8dd3NIMszmj/SYFvNYrv6d3nvtpeejYU+oAA"
+  },
+  {
+   "src": "/media/shots/ff-frames/s-m-home.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the index",
+   "page": "ff-frames.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAAAwBgCdASoYACYAPslSpEunpKOhtVQMAPAZCWcAwZA5X9yjzAZUFwifcoaVlkhVwTOfUtdrE7iPZdwYAP75EPJHJlLdBuGF4M9HH/EkCN4HITdFNlEXWOZg0+rhrgeKsdIyb1iimI+y447kUemTdWXJLsiJq+SzweppO5SaXc+knz5UG7xqY8b4N6An30u5opU3hQ9r8e7V4JnOzwj2G2eShbU5dqdJNI7kesjBHxkbGMzjc8gAAA=="
+  },
+  {
+   "src": "/media/shots/ff-frames/s-m-weddings.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: weddings",
+   "page": "ff-frames.pages.dev/weddings",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAACQBgCdASoYACYAPtFcqE+oJKOiKrgIAQAaCUAWoSCQYyi0X/cbsa1tm+vFrEJHuI0qZFCyiJeTzNt3NBMAAP7wyyMrFetgvVz0LFNwjgCD40/MEMngeO0kgB3agLIaaJzlux+k64BahkdYEeKQRXdVhuNYsPQRDXmc07NphD6Mc13NCfx78Zo0vyld6oDrRGCb4itEvLFW/D6v3ZYIWTJw6cHWGc51sGUnnqLz3xeUBAKpzY8Uuo1wzroH9NR+cu+gTMmBBTl5cW8MXRU4DQqYhvc5iu0sKH3svgvn+06eBeVAbZN/7F5z4A+4V5DKw000g7IAAAA="
+  },
+  {
+   "src": "/media/shots/ff-frames/s-m-exchange.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: editorial exchange",
+   "page": "ff-frames.pages.dev/editorials/exchange",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAADQBQCdASoYACYAPtFcqE+oJKOiKrgIAQAaCWcAvOAoPHeUWoKrV8Q2+Hikr3ZHYsEzCq/NXdbAAP7yf79XpDBGbQwr4b0U3ljJCdviaFOEI8x+HLWC3QVAqZDfccGuur5RoscsRMX4LPY4iucdKWTKZyj1hK3TBmJdsTmd8EitdI/Edi9X3Sj0eMQhuB7h19JjNQC6NJMUUyNQat7DQiqMpUbozMjX0vd11DqvD/87zeQsaOc8lvDGKXnq2VYZs4UKKos+VnvfkoD0YTcNeQT5Ye+DuAAA"
+  },
+  {
+   "src": "/media/shots/ff-frames/s-exchange2.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Editorial exchange",
+   "page": "ff-frames.pages.dev/editorials/exchange",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAACwBACdASoYAA4APtFUo0uoJKMhsAgBABoJQBdj+AhwBR+EvHPOvV+52BgloBUAAP70Q+UX0fJ+LAkyooBTT2o2gkUepP8+8GKvY9fFODE/jt16ehd36xh6mJekQTZ+Z8mMLCK5EZGhrXBD/CLQ1CBzoKIqVP1W28+J+3L6/r2uNe5luyjhBvQBeYLgC7yeoKFZF//ZnQaB6k4J5ImiDmuoSADIDyXJE7A5F9heTv9ZGjHqNJ7gnO718AA="
+  },
+  {
+   "src": "/media/shots/ff-frames/s-commercial.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Commercial",
+   "page": "ff-frames.pages.dev/commercial",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAADQBACdASoYAA4APtFUo0uoJKMhsAgBABoJZQC06f1kwUXp/+54c8OTxcwh5M9pgAD+hfwXYSq2ahX6p1bmF3swSlfuFslDXxve8o2e8y6Q5ijjmcuolkuKmpKxdEU9hnyU6UArQKK1u6NoPfbIusRZjQFggkFmUj9vDiiuW3xNMIy1Z9EL5bwihVVzxgf5i0B1HAJPMMX8cRsOmQAAAA=="
+  },
+  {
+   "src": "/media/shots/ff-frames/s-stories2.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Stories",
+   "page": "ff-frames.pages.dev/stories",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACQAwCdASoYAA4APtFUo0uoJKMhsAgBABoJZwAAQtakNKlrTwAAAP7t0B3npm9iReIlOC0bJmMo25l/B5e9Wo4Ck+9UX0E0M7poPgWxKDGLRfd8iGAAAA=="
+  },
+  {
+   "src": "/media/shots/ff-frames/s-weddings3.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Weddings",
+   "page": "ff-frames.pages.dev/weddings",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAADwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJZwAATrc72itWg0YoYvAAAP7zgaGG8bJSDJHKBH+D6G2TKqJRXHrpivlO4u29LSqPjwAtad47K0Txq7et1FpbG6zzVKPQCE4I1siHhjs0JPzYGNavf/eIK+JX/5vHN+c/oYETxwd8BAnC7fZ0QhSc/ScF35s3rF0y3jkcq2Bl4AAA"
+  },
+  {
+   "src": "/media/shots/ff-frames/s-about.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "About",
+   "page": "ff-frames.pages.dev/about",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJaQAAUz79SHGYulNAAAD+9XvefN0XbdZmqrwKiGdefnP30iHNHXskminc/8OdCDI1Pq1bdfCBVXTyRO4E6SiupAvhwAAA"
+  },
+  {
+   "src": "/media/shots/ff-frames/s-pricing.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Pricing",
+   "page": "ff-frames.pages.dev/pricing",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAgCdASoYAA4APtFUo0uoJKMhsAgBABoJaQAAe/QAAP7w4wgcRndtP7ZTA9ZIWt6dfTbvtMYeQAAA"
+  }
+ ],
+ "meridian": [
+  {
+   "src": "/media/shots/meridian/s-search.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "A project opened: FF Search",
+   "page": "ffdev.studio/ff-search",
+   "row": "cover",
+   "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQBACdASoYAA4APtFWo0uoJKMhsAgBABoJZQC/OYvWyXyuboB38Bz60AD+6vIVa4B6UeEcRWFI32CdnX1/UUjPZJIFPC9eKaX4xd//Gr7k9ticMusJ0PYAuwshCl4zLWyDwPHPEYb1zvQMFqRxEAceer9LfuvrOT+uN8bq8okrI0FWzOYXB4rZs4qev8e4AAA="
+  },
+  {
+   "src": "/media/shots/meridian/s-strip-hover.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "A project under the cursor",
+   "page": "ffdev.studio",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAwCdASoYAA4APtFUpEuoJKOhsAgBABoJaQAAW/A3lUhiQR9ikAAA/vRHTPaelTHXtAv5RsmtoPyzP707VRdXJ7MddoximVqF73s0VfuCK1VIU6cjoGweft1q+xwA"
+  },
+  {
+   "src": "/media/shots/meridian/s-about.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "About",
+   "page": "ffdev.studio/about",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJaQAAXK/uh0LYZaAA/uXcF0fNGD4iOt6asFYk3TvRX/0rt+/DcFAWe+E2sOU3RUDn13i4kA2HulbagM+s/wAA"
+  },
+  {
+   "src": "/media/shots/meridian/s-pricing.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "Pricing",
+   "page": "ffdev.studio/pricing",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAABwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJZwAAWpvYdAr+30AA/tUWq9aSCjaF5mss2z2PtR4ca9Y5KBMXqLA9Nx1S3oqTceDVBinOrco3nPmAAAA="
+  },
+  {
+   "src": "/media/shots/meridian/s-m-strip.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the index",
+   "page": "ffdev.studio",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAABQBQCdASoYACYAPsFMn0unpCKhtUgA8BgJaQDNwd0ZA/wgmXgef4HKhaJchXH4GLQKoAAA/vF03dCl1Nq1mB0WAqCDCXbRwNp8Chc4GRDe06GClR81L2sPOurCwyEgVQyR45lGzLztygboL0amNTBY0s0M5U9NgqjfhCU2c8BrkcbwRpwKM74JBAXmF1bUEHqBpa4+iwNwHgduUv9mRUpwsbb1csEAAAA="
+  },
+  {
+   "src": "/media/shots/meridian/s-m-project.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: a project",
+   "page": "ffdev.studio/ff-search",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRggBAABXRUJQVlA4IPwAAADQBQCdASoYACYAPslSoUunpKMhsBqtUPAZCWcAwGWMCIVnjObmFbboKF6TdVr5i+SVSBVKUVTgAP7rJ5390EmGurVFZuve5W0+f6JznqwpEFl+h4wYnnpcCn2bv4P4R879hPemWxXtzazxslqO1sSketDMqYU7gaek3gM6JXlFSgm958jV+YLd173QI0Fvcc4a43gw7E2chgm96qcZ8HxW78G6lb79IDVnH+lUaO5P/YenXFn83C+uk7W2vr74iyBgB/gdgWate9pLR62oKaWDBaVoRPBEHhXj9hW8TFUVB8dIvyK7y9haPTBcnG342HnZ6cCsfDcZVpYAAAA="
+  },
+  {
+   "src": "/media/shots/meridian/s-m-about.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: about",
+   "page": "ffdev.studio/about",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAADQBQCdASoYACYAPs1Wo0unpKMhsBVdUPAZiWkAygQIAG7uFhVvGABVLmH64QfKSfjRtDLG8UkAAP72hgPp9RxcwFTO4ul/WaPFbs3LkdteBfhR0uLCCL2kKkKLnqYgEbAgmOgaxesgDxKx4tScJtzL32nvLCEiaQd/2wyPEndf+R0bNnf3eZPE4CJK2XA7QIqQZNxOFE6mep0ZQropCM95TPHgAA=="
+  },
+  {
+   "src": "/media/shots/meridian/s-shoots.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "A project opened: FF Shoots",
+   "page": "ffdev.studio/ff-shoots",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQBACdASoYAA4APtFWo0uoJKMhsAgBABoJZwAD5gHaBMFN1TflWX3FYAD+5GIR3aNB7hbwHFzlWJmDzd3Z9abjNlQmkZu8IP8/sZqDz5YQ6Jyz8KptMLoFLeRJxsTkjkZ0l/Al9Mcw21qBqAm6J58z+Y3TckugAZwtT0AA"
+  },
+  {
+   "src": "/media/shots/meridian/s-stanzza.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "A project opened: FF Stanzza",
+   "page": "ffdev.studio/ff-stanzza",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAwBACdASoYAA4APtFWo0uoJKMhsAgBABoJZwAIEDiAG4gvF3VO+T4dXgAA/uRiEd3GYjsVoFVtOtRkW34LvYI0MrLr5HR2qvdHvommr044xu8xXAbAHR5Wpf89LWQxC+R2Vek2WKRaRz4q0MZ9AB+eLJ0xHvWZNNHbcAAA"
+  },
+  {
+   "src": "/media/shots/meridian/s-strip4.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The strip",
+   "page": "ffdev.studio",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAABQAwCdASoYAA4APtFWo0uoJKMhsAgBABoJaQAAW6xA+hN84AD+9EdNyWg+ZQH5dboxXV6a2isrnN9SJGZxSC2YUizO7psa7TcPEN/+RJ4YdHAA"
+  }
+ ],
+ "obys-translation": [
+  {
+   "src": "/media/shots/obys-translation/s-grid-hover.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Grid, a card under the cursor",
+   "page": "ff-concepts.pages.dev/concepts/02",
+   "row": "cover",
+   "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAwCdASoYAA4APtFWpEuoJKOhsAgBABoJaQDMHCHf4+KCjc9AAAD+9gJa5ZMZoqLTrUkXZv5qBgRPcU3rNHWjwUHbVZiUieE+mAAA"
+  },
+  {
+   "src": "/media/shots/obys-translation/s-horizontal2.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Horizontal layout, scrolled",
+   "page": "ff-concepts.pages.dev/concepts/02",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQAwCdASoYAA4APtFapEwoJSOiMAgBABoJaQAAUqJbD3N/OnjQigAA/ut5JNvWLkLR5w22F/LZGsBYdsvTUY8f7GH/63LT/enCbbT/8XCUP1xIYJHvrEf/0g/49q5xi0uY6keq3eDgAA=="
+  },
+  {
+   "src": "/media/shots/obys-translation/s-vertical-hover.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Vertical, a card under the cursor",
+   "page": "ff-concepts.pages.dev/concepts/02",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACQAwCdASoYAA4APtFUo0uoJKMhsAgBABoJaQAAUrWEunST0SgAAP7reSTb1mzPbpa1ynC/Ve3q/kWwL5NWE2gdg5O0+6+ApLRZlbjf5HDsHAAA"
+  },
+  {
+   "src": "/media/shots/obys-translation/s-vertical2.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Vertical layout, scrolled",
+   "page": "ff-concepts.pages.dev/concepts/02",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACQAwCdASoYAA4APtFUo0uoJKMhsAgBABoJaQAAUrWEunST0SgAAP7reSTb1mzPbpa1ynC/Ve3q/kWwL5NWE2gdg5O0+6+ApLRZlbjf5HDsHAAA"
+  }
+ ],
+ "hai-awan": [
+  {
+   "src": "/media/shots/hai-awan/s-hero.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "hai awan: the headline among app screenshots and stickers, the demo below answering about week 9",
+   "page": "awan.ffdev.studio",
+   "row": "cover",
+   "lqip": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAADQAwCdASoYAA4APtFUpEuoJKOhsAgBABoJZwDCgBkgVVynCsT/fbgA/uiUNkHQhS5uNhL3rlesGuxOjSQegpflZd2WshXDXL3kqAWkUZp23d7ULAbVpeEGh9uTkTEPOVhlAnMuu//zoNqWuAHVrXfJ6UBN5GbW4CTI/BpvafOj3K2slo78gnzPRs47YO3uVKyKcaAA"
+  },
+  {
+   "src": "/media/shots/hai-awan/s-demo.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The demo: Awan has flown to the week 9 bar in a chart, circled it and answered",
+   "page": "awan.ffdev.studio",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAwCdASoYAA4APtFUo0uoJKMhsAgBABoJZwAAXAYohL1MXQ3SEAAA/vHQKl19Mrjr7xM2mheYNjNf416cW3Et+dqH3BscNoJ8ptusfkwEtujyIJyiosBleG/3P2VWUyC5SXgAAAA="
+  },
+  {
+   "src": "/media/shots/hai-awan/s-learn.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "Finally learn the thing: asked how to total a column, Awan points at the cell and writes the formula",
+   "page": "awan.ffdev.studio",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAwCdASoYAA4APtFWo0uoJKMhsAgBABoJZWM+AD3k5AAA/vDQlsSe0tiIoamYyhxqSRfmA0LNiUGMxYs6BVs7xkqjcAAA"
+  },
+  {
+   "src": "/media/shots/hai-awan/s-context.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "Your screen is the context: why won’t this import? — Awan rings the bad date column",
+   "page": "awan.ffdev.studio",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAwCdASoYAA4APtFapEwoJSOiMAgBABoJZwC7ACHhfDDFwqYaxAAA/vHnCn/3C8/0l7H5S2iLAJAEnGlUGcYILhLDP4NMqrdloWFGYpBBZLqy3wxgAAAA"
+  },
+  {
+   "src": "/media/shots/hai-awan/s-m-hero.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the hero",
+   "page": "awan.ffdev.studio",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRuAAAABXRUJQVlA4INQAAADwBQCdASoYACYAPslOnkunpCKhtVgMAPAZCWMAwO3/4CSKsIAj9eO2uu32/lMorFaqZjk7WPuU4AD+4epSm6F5u0gzOKKV5U46hUblUrNzslmKo2eX8Czuwlo/V3c4qy3jRd+d7u1cHWaYYIZ6LC0ZI9wL+fXqqanxDesOWz8dU0u22moFBnjEf/DZu1GQuqa3zjhUo6mkhfNpS1sJbFyayC+N3PcEh9HfPaog4weVNE7uwscFiGLC/ALghaiLN8OrEedYNJV6lunWMLgXiKblWvAAAA=="
+  },
+  {
+   "src": "/media/shots/hai-awan/s-m-learn.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: Awan pointing at a spreadsheet",
+   "page": "awan.ffdev.studio",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAwBQCdASoYACYAPslMokunpCMhsBqtUPAZCWUAzNAUPoEGj5PYgP14ok8YfsHN68eAAAD+4epSm6F5u0gzOIsyaIS9UnFNjUnX4OhucYME3QU1Ue/cw9K3NgDDWSlPI2wzEZnlpDJ2LvVDgUQYyjr+OAvoc1L3iffqH5B6EAQ/mcEPKHaYotM+nFs/NECf8ezqaKwLgAA="
+  },
+  {
+   "src": "/media/shots/hai-awan/s-m-pricing.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: pricing under the clouds",
+   "page": "awan.ffdev.studio",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAACQBgCdASoYACYAPtFSpEuoJKOhsBqqqQAaCWUAzJQUOpwTy+am++5ZgOTbdbdNYUGv2lr5aEz4JotxymBAAPkTcpdcV6Mj18NvwCoxjDlCslhAcZMmOBB1iwOD9fuDlJpDcRKKo/K/225v1jvUZs5okpWHL2wrEMLwqP1iGhiYT94gjRM9GDaMxPJgDjePTlPyOprGHe4f9h7PQ2o8XlkSSvGzxNjeccBY3wP505OJun0mtQ6EVAelnRajYZIpSSJTkFk3v5wo39Gw+UYy3MgOkvLYeuGk5aGAQSf6YqOWiooNM9KAAA=="
+  },
+  {
+   "src": "/media/shots/hai-awan/s-agents.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Hand off work with your voice: an Awan agent starts on the weekly report",
+   "page": "awan.ffdev.studio",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAwCdASoYAA4APtFUpEuoJKOhsAgBABoJZwC/OCHgVngZqTECCM8AAP7zdQsfaemQaWybEorX5EsmU9Wtew6X7vpKSsAYbwGyd9ADfRc5wnvteGcaCSbYl4n8zoe/3n6jf05ws+ZD5f5dHksTR0UAAAA="
+  },
+  {
+   "src": "/media/shots/hai-awan/s-idea.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The idea, typed out on a note between rainbow arches of little clouds",
+   "page": "awan.ffdev.studio",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADQAwCdASoYAA4APtFUo0uoJKMhsAgBABoJZQCo9CHhV14+U7RNaAAA/vN/S5DxHY/3mzXhQ7juVYJ1ia3ycTs9rHIwqtrZUN2KffDUGuq8mltSv+t3doDtSFTewj5t29TBE3+HzrqUOAyd1EPOGcAA"
+  },
+  {
+   "src": "/media/shots/hai-awan/s-pricing.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Pricing under a cloudy sky: free, pro and max",
+   "page": "awan.ffdev.studio",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQBACdASoYAA4APtFUo0uoJKMhsAgBABoJZwAAW/F/VHcHJi0oICSw+AD+2te/U9JayG4ozcGXA87+eAqUIxw6P5N2TJD1pipDleDiX6Gb0WVzWonwpo9m2HKkaKzHjKlWAvx6l+XlT19/wj8bpXbdCh3dS48m0CWM8fy12qPQAv/ANFkatYA8+TObAHLjAAA="
+  },
+  {
+   "src": "/media/shots/hai-awan/s-asks.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "Ask it anything: a wall of real questions, and the line that Hai Awan is fully open source",
+   "page": "awan.ffdev.studio",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJZwAAW+lvUuIUzpqEAAD+827ts+hegXmzupgN0OatXYNDTaDX0GNFGE80JpwnIdJJEvAA"
+  },
+  {
+   "src": "/media/shots/hai-awan/s-faq.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "Frequently asked questions, starting with what Hai Awan is and whether it is open source",
+   "page": "awan.ffdev.studio",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJZwDCgCICkXBTI4pEsvUAAP7zfxF/h9yiRSwaYY8kugpZqo+2TAJRoRLQHuE8AAA="
+  }
+ ],
+ "ff-member": [
+  {
+   "src": "/media/shots/ff-member/s-hero.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Built by us. Looked after by us. — the black member card on a chrome plinth against a lit rock wall",
+   "page": "ff-member.pages.dev",
+   "row": "cover",
+   "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwBACdASoYAA4APtFUo0uoJKMhsAgBABoJaQAAWq3PA5m93uo4DZmQLAAA/vaNuV5tjICSjpMH+ObnogeQkOP0I5PYLNUMUZDWwpVDrTj0NSrntSB2HrWCyiFlmsz1RorUj6e8mzA1pIYIVel/Qvp3n9kasG6OAAA="
+  },
+  {
+   "src": "/media/shots/ff-member/s-intro.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The intro: the member card being issued in the dark, a status line ticking through what membership covers",
+   "page": "ff-member.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACQAwCdASoYAA4APtFWo0uoJKMhsAgBABoJaQAAW+ueSmmZJS2AAP71ZtW0F4+/IGwi/C0A93rQ5QsGUMZjgAAA"
+  },
+  {
+   "src": "/media/shots/ff-member/s-globe.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "Built in Kuala Lumpur. Kept online everywhere. — the night side of the globe, with backups, SSL and security updates landing",
+   "page": "ff-member.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQBACdASoYAA4APtFUo0uoJKMhsAgBABoJZwAAW+ybVhddpmXapOEu4AD+9EFDRMSuwKcbNIp9xe1DcLajt798LF5hTqYZZJk1bN9tOc8QEeJNendr4EijAOTa4paIuEyjByz2+jxQAA=="
+  },
+  {
+   "src": "/media/shots/ff-member/s-tube.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "One card for every site we look after: the card inside a turning tube of the studio’s work",
+   "page": "ff-member.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAQBACdASoYAA4APtFUo0uoJKMhsAgBABoJaQAAUrTH4Wzr906NweQgAAD+8yhcpeAT5/OdinA3KiuFe3ndSexEZVM3hiwV/oPocX5UjSfwq4+u/COlCR6swWRiXpT59HsM4ECeDGK4IfULfvUnt02p6EjeL9N34ybYpbCsAAA="
+  },
+  {
+   "src": "/media/shots/ff-member/s-m-hero.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the member card on its plinth",
+   "page": "ff-member.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAAAwBgCdASoYACYAPtFcpE2oJSMiKqoBABoJZwDRgBfdF3ydEFF5I5RV4Hc8iJm/LKzqbZ7kwGwlYAAAAP70sxcgBWQLrYKBpeU+tfTeckZ9ItB1R9XMzeBAI/hOB9jsRLXw9JYq2M8hAgKHVg3XrVboJJ6uVSGaXxNQUMzSKicUNRIflTTdHKtSF5O8bNba77uTM/n2av8nrLdGAk7SIPD/tE9uOkFXY+KQfmI3+mrT9DPxt3Pm8Dij9z7z9e5wHhYvuY+V4jAd1Rc6W6vAg7IAM4ONPl3QAAA="
+  },
+  {
+   "src": "/media/shots/ff-member/s-m-tube.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the card in the tube of work",
+   "page": "ff-member.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABQBQCdASoYACYAPtFcokwoJaMiMBVaqQAaCWcAzJQL6fNS1m/Nvqu718+5PgS+4+yVNQAA/vGhForiyutoHdvSHGgn68270Uq3gSL0xT8Jo5hFN9KJ2voOvOYUyb4gTCaWxRx9tB4MB5RDcyKptPLKxpsrAEEjv/YtvlZgAAA="
+  },
+  {
+   "src": "/media/shots/ff-member/s-m-plans.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the Maintain plan",
+   "page": "ff-member.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRvoAAABXRUJQVlA4IO4AAACwBQCdASoYACYAPtFgqVAoJSOipWmZABoJaQAD5Yi09b92zO18HdcPGgB8GFpyuOQK/pl/aXwA/uKMk/S4Jvt2Lki7hFwOPiBhUfqVjmE93+NiO1AnUpEtrV8IXJsXgVks8BMW76qjlxnGSFBkqsH5ZZUCqDjX4G4ri8mrpe9Q/Ibjne8DFrQD5ItPc06unlxEImCiMsxgVftWzYB4Ycj3x+B2bO5mvQSrZNXNsRVX9TX1Gb9xDgngcHeP407AtYGObz536fWPu2fYYxasY6Q4Ee+6xb8o19LdrkowZiXQbJvPUPAzzLuhIpNcAAAA"
+  },
+  {
+   "src": "/media/shots/ff-member/s-figures.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Plain terms, written down: the plan figures scrubbing past on bone",
+   "page": "ff-member.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAwCdASoYAA4APtFWo0uoJKMhsAgBABoJZwC/OCHf7ujT5h6eJ8AA/vIEQsEELDMElrFua+kqTsxmxcvlhkpaI/vzp0MJOTmAAA=="
+  },
+  {
+   "src": "/media/shots/ff-member/s-support.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Priority support. A person, not a ticket. — over a tilted screen of SmoothSail",
+   "page": "ff-member.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwAwCdASoYAA4APtFWpUwoJKOiMAgBABoJaQAAW+pbOFdqsbosAAD+qhjPH8H5DtOLoGIII/1+8WmNr2TlPAk93wRF6R4hvd3g/91PGSlGx18BoAQJxvuZ/RIMcjeIHA7sCLpdHAA="
+  },
+  {
+   "src": "/media/shots/ff-member/s-covers.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "Made for the sites we already built: hosting, monitoring, backups, security, changes and advice",
+   "page": "ff-member.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQAwCdASoYAA4APtFUo0uoJKMhsAgBABoJZwDE2CFsLBQUU0SvgAAA/ud9cfxpNPKnGeIk+fASlGmNTfyoygvI3xx9R2JEUIRAOFKzzxmbQNw7eiOhdBJR4hzuGtkbf0qXMNV2hdMiwAAA"
+  },
+  {
+   "src": "/media/shots/ff-member/s-banner.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "Three plans. One standard. — over a Big Brain Furniture interior",
+   "page": "ff-member.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQBACdASoYAA4APtFWpUwoJKOiMAgBABoJZwDCgCHe/bj1Vbty3cgKYAD+70+Xw1rWV53gcaLOxqRNcHOk5q3BJ5pXfEd8+zeXy6Y6AJv3V7XhJImVJRWI2nXfC/4zLWvPt424XPa/pUcEjmxQAAAA"
+  },
+  {
+   "src": "/media/shots/ff-member/s-plans.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Choose how much we carry: Care RM59, Maintain RM149 and Evolve RM299 a month",
+   "page": "ff-member.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAwBACdASoYAA4APtFWpEuoJKOhsAgBABoJZwC/OYs232Z804zgazEj8wAA/u2l/VyOJiPGc/Xo4k/1/JE/47AC3P6CIJbJQhqvnHGHjZJ0S5594KjUxQDH9qnNh+KWxtkKL+fo0wvlrgMSnDSMmpIBH82HMLquTvBcOAd+SxoCp52rSIOODAAA"
+  },
+  {
+   "src": "/media/shots/ff-member/s-join.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "The Become a member dialog: name, email, website and plan",
+   "page": "ff-member.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBACdASoYAA4APtFcpkyoJSOiMAgBABoJZwAAW4YPXlO7zivMHrRQAAD+9XUZwlTkQjKPVehwVutp7MRsrP2YAwn2M3pq8EZDryn8ZyBs1I3LfyoYdKzt70ce5fnHd6AAAA=="
+  },
+  {
+   "src": "/media/shots/ff-member/s-footer.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "Launch is day one — the footer under the //FF mark",
+   "page": "ff-member.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAABwAwCdASoYAA4APtFYpEuoJSOhsAgBABoJaQAAUgGk+DrzYAAA/ulD6RxMJtGB6T0xuRU5haNT2znYz8uhFnpfDL7tDQ/dugIAAA=="
+  }
+ ],
+ "indahnya": [
+  {
+   "src": "/media/shots/indahnya/s-hero.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Semua gambar majlis. Satu QR. — the table card with its QR among floating polaroids, guests’ uploads arriving below",
+   "page": "indahnya-86v.pages.dev",
+   "row": "cover",
+   "lqip": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAADwAwCdASoYAA4APtFWo0uoJKMhsAgBABoJZwAAUk7ML5dFcmbjVPIAAP7yL5Y9sidgMz0+IPIhelS0M7YJ10OtpJ0hW08b22OMLmKEEcpQdmVLjxiOpB+0baBTTCxb8gnPUL9+8u1CtiHT7rsD98IVKTkbnXkSjTVGPSdJuUTAPuHQTJCoxDf1wAA="
+  },
+  {
+   "src": "/media/shots/indahnya/s-gallery.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "The real gallery resolves: the majlis photos, with Aina & Hakim’s gallery bar",
+   "page": "indahnya-86v.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABQBACdASoYAA4APtFUo0uoJKMhsAgBABoJQBjgv/xbGKz+kFdgsU+EKxUAAP6188C4LXoI9cFd7ZgC+QkrBPKRQ2kBDfWE/pA7iZRYNyzawuVdNofccVNDOyc0wx/RPTIVI9NDlZwrWtoDZQqh3hysfNGzdZGVEJ9zuZPOW2sdZLCjffLtSDwa/KJ5xvaFDFJ9vuI8ammqv0HTTUxh7HE21qIMj6k52QPnZACkLK8CSgHRnQtBKLEV7l6AAAAA"
+  },
+  {
+   "src": "/media/shots/indahnya/s-scatter.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "The hero scrolling: the QR’s modules breaking away from the code",
+   "page": "indahnya-86v.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACwAwCdASoYAA4APtFWo0uoJKMhsAgBABoJaQAATBHV6g/YX6SGoAD+8gkZYmNf6ajaDCUOrsamsosJZJP+TfIGDFcQFxs2gwVP/Qg2N3AzqXWNluDq0embYXGZDkqu5kAAAA=="
+  },
+  {
+   "src": "/media/shots/indahnya/s-mosaic.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "The modules land as a mosaic, each taking the colour of its spot in a guest’s photo",
+   "page": "indahnya-86v.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAAAQBACdASoYAA4APtFUo0uoJKMhsAgBABoJQBdgO4Fwxs4yxdfdYn4eAAD+t0KBX3zgVbuUX9MwldexK9PG/XNz1fiej6ETpjy8GWinJVpUUpbMRbW34YrUDPLHLg3irTdqgoFhPUahZCKk5p7B0NM32cdZwhFAFE3X7HiSgIvfI2U+KPhknhKtWouLisM0FcJxH+SH2z+c6lfWEscT+EGOldusp1HpDuhnJ7NfH40VK8X1MAAAAA=="
+  },
+  {
+   "src": "/media/shots/indahnya/s-m-hero.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the hero, the table card waiting under the buttons",
+   "page": "indahnya-86v.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRvgAAABXRUJQVlA4IOwAAADQBQCdASoYACYAPtFYoUuoJSMhqq35ABoJZwDDrBab+SYqQIW/B8S2yRDQbBveQmqBiG8qmizgAP7yNWa20lAZeMqn9pnRQuxcVsiqdmfk60WVXfu/AerK+GHSzV5/ZTPGRqJ2HRB0JNLSp7QleJDxfardKgUKLFCPG/oKm4dhdnjUVusPJnNWo5W/0s486RgJbqB73EpryErGNUeWdHgbPcxVBtuCAk3SHiD68O3xRQPXHkFYI71VLKxaHTytA+IJU9PTxS6+fBeSLK/QTku01TLNi1zw0iwo3BNCf5yosApm87ALosyC3nVAAA=="
+  },
+  {
+   "src": "/media/shots/indahnya/s-m-gallery.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the gallery the QR turns into",
+   "page": "indahnya-86v.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRrwBAABXRUJQVlA4ILABAABQCACdASoYACYAPtFaoU0oJSKiKqwBABoJQBYj7X7kRyvot9LuCRYEqYb1SwyEfnnmwHSV8p7qq5/tyQwdL0j24/v4ef411EslgwAA/tT5D2y7QtzH5tnx5L4Fk10LJTS5f5FyFm8iewOfYeX43YldYDzNMbIiBew50PdMrLmsH4m8VYZqiW4s/IJir95JgbUo/KgLG6CvqQAHARzkesW0IfmCvPKizl6YrLkIoyF8kO7an/THwSa79EzpNq7UD1QdTEq3ph+YCAXOIxr3t5ilIV8KC0WoFNDOM36y3yDfNixjOTlYdCp2R/wN62sqa6n9JH3wLsGC7FiL3a+8EFo+FE/eMIvPXS3sJ0Y0NE7tasfv6pBqXNkbtKmZ5XCOvygfmzNRvA0Y6J86hCLV9TofAe1gmcepcBt7Y08TwH6QUcgBMEe//bZ/uUZj2A2wtfO1Wwk69XR2MrO164WeWz0F4Yk5dsNte6YzwOEATiN8asQILJF6GQawPt5Md/dlE+2MJ7G12ipmGnMObht8y9z2fH8hHaf+Xcz6+UVPgKih3wlnndn1JqOMC+PDjPioAAA="
+  },
+  {
+   "src": "/media/shots/indahnya/s-m-kad.webp",
+   "width": 1242,
+   "height": 2010,
+   "widths": [
+    621
+   ],
+   "alt": "Phone: the e-kad",
+   "page": "indahnya-86v.pages.dev",
+   "row": "trio",
+   "lqip": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAAAQBgCdASoYACYAPtFaoUyoJSMiKqwBABoJZQDL4YyKlX/ag3ZzRy6AHzyBlmtmv/IavMuD3rPkzIAA/vI1ZV7XEhhNQM8pBN/5piLTdRDaKE6tSf8kt667lFmpWxDMLfn/2JtnOvm4o/xfYcnocA607aGEcucJIJzEXr3Nf/shqLsFX7h0jK2psbgGT1s2pYwzOWWeVOpWOq4mSt7yCH92dhSyWrNdQYp+pAHQ7f0vXG4cVODaQVryq+4ffPEg8Lw/k/xm1ft4baUUocrkq3G8Bl9AAAAA"
+  },
+  {
+   "src": "/media/shots/indahnya/s-how.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Tiga langkah: a guest scans the table card and uploads from the phone",
+   "page": "indahnya-86v.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQBACdASoYAA4APtFcpkyoJSOiMAgBABoJZwAD5b5qPhNs2qqkdEjN4AD+/YmYvF5sZL92i/C4DSHjUPe/l6S35h4RZQC2mAVtyVTKDZEFz4D9c3eEW9I0z+3Z0etdRzvLmmIw8Vcx/TGZAIKAAA=="
+  },
+  {
+   "src": "/media/shots/indahnya/s-dewan.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Lampu malap. Gambar naik. — the page dims like the dewan and the slideshow fills the TV",
+   "page": "indahnya-86v.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJagAAQvneN20b/WIfLNaAAP7vgb42hetqd8aXBqFDpUZ6ly6VPC8RUUGYwb1/9KnF/oVv0oK1h/hmNbZ+ZqrAL6g9zWxa/iVYGiwddM7xqxYv2APNfsr4qMKetVj2gBJ20/ooE/E84AAA"
+  },
+  {
+   "src": "/media/shots/indahnya/s-story.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "Makcik snap dari meja empat — the apps and group chats it replaces, struck through",
+   "page": "indahnya-86v.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACQAwCdASoYAA4APtFUo0uoJKMhsAgBABoJaQAASeeNeZr1/dAAAP7t0LOLJRIBxQ75Vx7fvhy+FxryG9jBH1MdAo4GLDpfZtCu5as7ARi8hMvDASen33hXQ+AAAA=="
+  },
+  {
+   "src": "/media/shots/indahnya/s-kad.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "Kad jemputan yang orang betul-betul buka: the e-kad on a phone, with its template picker",
+   "page": "indahnya-86v.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADwAwCdASoYAA4APtFUpEuoJKOhsAgBABoJZwDE2CFsg6cmEMnGGIiAAP7riwLBjt8vmWNkCVUD4bz+0AHrbGz00evpPvf0TysnNKbfh548KxLZau9FNIaOtoB9k713pDNKVrv8jsx97u7N6VLMmnAm8AAAAA=="
+  },
+  {
+   "src": "/media/shots/indahnya/s-guests.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "Sebelum majlis, tetamu dah tahu semua: RSVP count and the seat finder on a floor plan",
+   "page": "indahnya-86v.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAwCdASoYAA4APtFUo0uoJKMhsAgBABoJZwAAbGz+WytsvNlU3fwAAP7wMuBKeueeSZ5GZ53sv1do9OVFXfERz7yvgaJFIS784Wi7nw5gw0acvc6IgGB74k3Rfykk0U+7zFAA"
+  },
+  {
+   "src": "/media/shots/indahnya/s-host.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "Dari atas pelamin pun boleh urus: the host filters photos before they reach the screen",
+   "page": "indahnya-86v.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQBACdASoYAA4APtFWpkuoJKOhsAgBABoJZwDImB6QcGp+3N6RvbsiAAD+8gkZTg/E94QBxwe6K3wOcyTJTSdDezENeW+zODUEtVVDQ4tUeT78Svc5i6RlClIqAAAA"
+  },
+  {
+   "src": "/media/shots/indahnya/s-pricing.webp",
+   "width": 2880,
+   "height": 1620,
+   "widths": [
+    1440
+   ],
+   "alt": "Bayar sekali. Untuk satu majlis. — Percuma, RM59 and RM99, one time",
+   "page": "indahnya-86v.pages.dev",
+   "row": "full",
+   "lqip": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBACdASoYAA4APtFUo0uoJKMhsAgBABoJaQAD4/IGrHJrhaaHkyYsiAAA/uuLERm9LsG2bSwYH6CKkFeK7P6t/e/6vIMFJZ4lnHdbZxVoNme/R/YFsYLbpz2Oy1SKjLZ3Q3ZNWzGlxkhQAAA="
+  },
+  {
+   "src": "/media/shots/indahnya/s-sample.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "The sample majlis: Aina & Hakim’s guest gallery",
+   "page": "indahnya-86v.pages.dev/aina-hakim/gambar",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAAAwBACdASoYAA4APtFUo0uoJKMhsAgBABoJZwDMHYxY32dLQuZXZJIvkwAA/seD2vt99Afyub7fnr/gWR4lkKrQZj3tnEa/2RnCpQzo5MI4BMgr7O2vh24nEsMYUMorK/MSXHXkemYNqnSK7t4H+PVC0dFT3+8mqXzrkq/B/JEFWW8FFIcRvO7+YxItG+ZzSrSpwAAA"
+  },
+  {
+   "src": "/media/shots/indahnya/s-footer.webp",
+   "width": 1600,
+   "height": 900,
+   "widths": [
+    800
+   ],
+   "alt": "The footer: the indahnya wordmark filled with majlis photos, the vine’s roots under it",
+   "page": "indahnya-86v.pages.dev",
+   "row": "pair",
+   "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAQBACdASoYAA4APtFUo0uoJKMhsAgBABoJZQDCgYr63xHQITOrsQwZQAD+8gua4AdmVid2iywNv++o8uzPu8H22q/D2c+C5XfDPYgdQaQQ09zngq/yYvNZsXqCjHrmac3DFYz99v/aP84EMshstytPa0CTabCtdTiyZdzHul7O5Jz6Hdp8tbMGoJk5bIItAQAAAA=="
+  }
+ ]
+}

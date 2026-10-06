@@ -1,0 +1,3 @@
+# Copy to .dev.vars for `wrangler dev`. Any long random string; production uses
+# `wrangler secret put TOKEN_SECRET`.
+TOKEN_SECRET=change-me-to-a-long-random-string

@@ -1,0 +1,21 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "ff-desk-presence",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-10-01",
+  "durable_objects": {
+    "bindings": [
+      // One global instance: identities ("Visitor N") and who is on which page.
+      { "name": "LOBBY", "class_name": "Lobby" },
+      // One instance per page (room = pathname without trailing slash): cursors and chat.
+      { "name": "ROOMS", "class_name": "Room" }
+    ]
+  },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["Lobby", "Room"] }],
+  "vars": {
+    // Comma-separated list of page origins allowed to connect. Empty = any origin.
+    "ALLOWED_ORIGINS": ""
+  },
+  // TOKEN_SECRET is a secret: `wrangler secret put TOKEN_SECRET` (prod), `.dev.vars` (local).
+  "observability": { "enabled": true }
+}
